@@ -1,0 +1,1512 @@
+RimWorld modlist
+Author: CheeseWiz
+Mod count: 169
+
+Harmony by Andreas Pardeike
+Royalty by Ludeon Studios
+No description provided.
+
+Ideology by Ludeon Studios
+No description provided.
+
+Biotech by Ludeon Studios
+No description provided.
+
+Camera+ by Andreas Pardeike
+You want more zoom and different paning?
+Powered by Harmony Patch Library
+Andreas Pardeike
+Email: andreas@pardeike.net
+Steam: pardeike
+Twitter: @pardeike
+
+Vanilla Backgrounds Expanded by legodude17, Oskar Potocki
+Vanilla Backgrounds Expanded is a mod that adds many new main menu and loading screen backgrounds inspired by RimWorld - all created by Oskar Potocki for the purpose of Vanilla Expanded mod series. With mod options, you will be fully able to customize what backgrounds appear in the game, whether they cycle or not, and how long should it take for them to change into other backgrounds.
+Modders can easily add new BackgroundDefs which will be automatically picked up by our mod options menu.
+The background images within this mod are protected under CC BY-NC-ND 4.0. They cannot be reuploaded, modified or exploited without permission. You can, however, use them as your PC wallpaper if you want. If you're a youtuber, you can use them in your videos and youtube thumbnail images.
+
+Cherry Picker by Owlchemist
+If you've ever found a mod you've liked except for one little part of it, this mod allows you to selectively remove content. It works by pseudo-removing the definitions, meaning they remain in the game so as not to cause in errors, but all references to them are cut so they do not show up anywhere.
+
+Big and Small + Prerequisites Framework by RedMattis
+Contains the framework for Better Prerequisites and the Big and Small mods.
+Big and Small adds methods for changing the size of creatures via f.ex. genes and applied a large number of effects to large/small creatures such as altered health, damage, metabolism, production, etc.
+Better Prerequisites is A more robust system for prerequisites, hediffs, etc., than what Vanilla Rim world offers for its genes.
+Originally it was just for prerequsities, but the framework now includes f.ex. hediffs that change a pawns genes, or spawn other hediffs.
+Vice versa for genes spawning hediffs.
+For any Gene mod authors can specify any number of condition sets that must all be fullfilled for the gene to activate.
+
+Example of how it can look in-game:
+"Supreme Super Snek Ambush"
+Gene Prerequisites:
+Any of:
+Snake Tail, Eel tail, Mermaid tail
+Any of:
+Strong Melee, Feral Might
+All of:
+Venomous Fangs, Coiled Jump
+None of:
+
+Incapable of Violence, Weak Melee
+Unlike the vanilla prerequisite system genes with prerequisites from this mod can still spawn in genepacks or via random gene-generation.
+
+Vanilla Expanded Framework by Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf
+Vanilla Expanded Framework incorporates a multitude of functionalities for different mods in order for us to boost performance by not duplicating code across several mods. Examples of shared functionality include custom base generation code with an amazing building export tool, customisable sieges, faction-based pack animal textures, faction based apparel colouring system, Orion’s Faction Discovery revamped and improved, Item processor code, shields, and many, many others.
+Orion's Faction Discovery?
+Yes!We have negotiated a deal with Orion and included his Faction Discovery mod within Vanilla Expanded Framework. Now, if you decide to add a faction to an existing playthrough, upon loading up the save you will have an option to spawn it's settlements and define how many of them you would like to spawn, as well as how far away from the player.
+
+Vanilla Achievements Expanded by Oskar Potocki, Smash Phil
+Vanilla Achievements Expanded is a unique, never before seen in RimWorld modding achievement mod, part of the Vanilla Expanded mod series and a framework for other modders.
+This mod adds an extensive achievement system, with various different stats being tracked. Players receive a pop up rewarding them for going above and beyond and pushing their boundaries. Players receive achievement points which can not only be shown off, but also can be used to fire several types of pre-existing in-game events.
+Most achievement trackers (described below) can be used in xml. This means other modders can include an Achievements.xml file in their mods and inject custom, mod specific achievements into our framework. That is of course if Vanilla Achievements Expanded is active.
+
+Vanilla Weapons Expanded by Oskar Potocki, Trunken, Sarg Bjornson
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+Weapons are spread across the technology tree allowing for realistic and time-consuming progression, making the higher-tech weapons even more rewarding. Bear in mind, however, that all weapons are perfectly balanced in line with Vanilla weapons, which means that a Battle Rifle added by this mod might not necessarily be better than a standard assault rifle in some situations.
+
+Vanilla Traits Expanded by Oskar Potocki, Taranchuk, Chowder
+Have you ever thought about how base game traits become repetitive after a while? Are you tired of seeing pyromaniac or kind pawn over and over again? Are you perhaps considering pyromaniac to be an instant death sentence in your colony? If for any of these questions the answer was ‘aye’, then look no further.
+Vanilla Traits Expanded adds 55 new traits, some offering unique new game mechanics, some being quirky and enhancing the storytelling, and some being straight up stat upgrades. Traits’ commonality has been adjusted after weeks of testing, to make sure no powerful or annoying traits appear too often.
+Using our new mod options menu, you can now disable specific traits added by vanilla game or any of the mods you have. This doesn’t mean that the trait will be magically removed from the pawn, but it’s commonality will be reduced to 0, stopping it from ever appearing in the game again.
+I really hope you will enjoy the effect of our hard work! Let us know in the comments what you think works and what doesn’t!
+
+Vanilla Trading Expanded by Oskar Potocki, Taranchuk
+Vanilla Trading Expanded is our take on the trading system and RimWorld, meant to add some much needed randomization, planning and strategy to otherwise stale trading. Currently in RimWorld, all values are flat and never change - meaning there are certain things that sell, and certain things that don’t. This mod will change that making market value of things dynamic, and changing based on the supply and demand.
+This mod overhauls the trading system and adds many new features, such as the Bank, Planetary news network, fluctuating prices, squeezes and crashes, loans, contracts, stock market etc. Please note this is not meant to be a realistic representation of the economy - I am not an economist, and I also don't want it to be realistic. It's simplified and almost arcadey, because it's a video game, and we don't need a corrupt market in the game to remind us how bad it is outside of it.
+
+Vanilla Textures Expanded by Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf
+Vanilla Textures Expanded is a full-scale overhaul of vanilla (unmodded) RimWorld textures, with its main aim being not only to fix less aesthetically pleasing textures, but also to bring vanilla aesthetic in-line with that of Vanilla Expanded mod series.
+This texture pack includes over 450 textures remade in vector-based software (same method used for Vanilla Expanded mods), exported into 2x the size of vanilla textures. What used to be blurred before, now will be sharp and crisp, even if zoomed in fully using mods by the likes of Camera+.
+When redrawing vanilla textures, our main focus was on keeping them consistent with what players are used to - don’t expect any drastic design changes - we have only changed the look of things that were really bad or ambiguous.
+We plan to keep adding new textures in the future, so make sure to let us know what particular textures in vanilla game require changes!
+
+Vanilla Social Interactions Expanded by Oskar Potocki, Taranchuk
+Vanilla Social Interactions Expanded means to bring much more needed life to your pawns as well as the overall world map. This mod alters what pawns do in their spare time, adds some much needed content in regards to interactions that breathes fresh air into otherwise boring and stale game. Pawns now also have aspirations that can be fulfilled to gain powerful mood buffs, and the whole inspiration system is also changed.
+Each of the mechanics in this mod can be disabled in mod options.
+This mod adds following mechanics:
+- Memories
+- Inspiration Changes
+- Obtaining New traits
+- Venting
+- Friend and Best Friend
+- Teaching
+- Many hands make light work
+- Discord
+- New group activities
+- Dating
+- United We Stand
+- Hostile Environment
+- One Night Stand.
+
+Vanilla Skills Expanded by legodude17, Oskar Potocki
+Vanilla Skills Expanded is a new mod that expands on the vanilla skills system by introducing expertise to the extremely broad skill categories that vanilla has. Only 1 expertise per pawn can be gained. Expertise can only be gained in skills with both a passion and more than 15 levels. In addition, other mods can add more to account for their own additions of tasks.
+Expertise will allow your pawns to truly excel in specific skills that fit their abilities and backstories. From planet-known roofers and architects to professional chefs and master duelists, this mod aims to add much more character to all the pawns.
+Expertise is a permanent choice, so be careful what you pick!
+This mod also introduces three new passion types - critical passion, natural passion and apathy!
+
+Vanilla Psycasts Expanded by erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van, Reann Shepard
+Vanilla Psycasts Expanded is potentially our Magnum Opus, a greatest, most exquisite, complex and visually stunning mod up to date. As always, it started with us simply not being satisfied with how Psycasts ended up being in Royalty DLC. This resulted in us wanting to expand on the concept, and expand we did.
+Inspired by games such as World of Warcraft, Stellaris, Path of Exile and many more, we have designed a brand new system that makes Psycasters truly worth-while, whilst also keeping everything anchored in the grim universe of RimWorld. This mod does not add fantasy character classes, tossing fireballs left and right, conjuring holy magic to repel demons etc. It simply expands on the mysterious psychic powers granted by the link to an archotech.
+Complex level-up system will reward you for meditating, allowing you to distribute ability points in many different paths, unlocking hundreds of new, unique abilities, each kept in line with vanilla psycasts when it comes to balancing and visuals. Ultimately, it’s up to you if you want to become a fire-slinging conflagrator, an animal ruling wildspeaker, or a mix of both. As it always is with RPG games, you can also spend level-up points on upgrading your overall psycaster stats.
+On rare occasions, enemies can send their finest psycasters against you. They will be able to use all their unlocked abilities to defeat you, so you should make sure to prioritize them. Don’t worry - Psycaster raids are rare, and the game prompts you with fair warnings that an enemy raid is utilising a psycaster.
+If you like going balls to the wall, however, Basilicus Bestower is a new storyteller that allows any pawn to appear as a psycaster. This means you will see psycasters in almost every raid.
+This mod should be compatible with most of the mods, except the mods that add new psycasts or change existing ones. Please check the mod description on Steam Workshop for details into what mods are not compatible.
+
+Vanilla Fishing Expanded by Oskar Potocki, Sarg Bjornson
+Vanilla Fishing Expanded is a first module in a brand new mod series “Vanilla Cuisine Expanded” from the Vanilla Expanded team. With such an important mechanic missing from the base game, we Oskar and Sarg have decided to introduce a way to catch fish in your local water sources, adding a bit of purpose for settling near running water and ocean side.
+With simple, intuitive, vanilla-like mechanics, all it takes is to designate a fishing zone same way you designate a growing zone, and assign your Animals capable pawns to the new fishing job type. In no time they will pull out fishing rods from their invisible bags, head straight down to the river and whilst chatting to each other, try to catch a new meat type called fish, which can be eaten raw (providing an Ate raw food debuff, just like regular vanilla meat), or used in a cooking recipe. Unlike other mods, the fish don’t need to be butchered.
+Compatibility
+Compatible with any other fishing mod
+Compatible with Advanced Biomes
+Compatible with Realistic Planets
+Compatible with Nature's Pretty Sweet
+Compatible with Mallorn Forest from LotR mod
+Extra compatibility with Alpha Biomes (19 specific fish)
+Changelog
+v3.0: Updated for RW 1.4
+v2.05: Added 3 new achievements for Vanilla Achievements Expanded (15/11/20)
+v2.0: Updated to RimWorld 1.1 (20/02/20)
+v1.03: Added extensive mod options. Added the Fisherman trait (25/11/19)
+v1.02: CE patch fixed (22/11/19)
+v1.01: Bugfixing, compat patches and balance tweaks (18/11/19)
+v1.0: Release (16/11/19)
+v0.1: Pre-Alpha (25/10/19)
+
+Vanilla Plants Expanded by Oskar Potocki, Sarg Bjornson, Chowder
+Vanilla Plants Expanded is a core module in a plant-based in the new mod series “Vanilla Cuisine Expanded” from the Vanilla Expanded team. After hours of designing, testing and designing again, Sarg Bjornson, Oskar Potocki and Chowder are proud to present this content pack to help you with your RimWorld farming simulator. This mod features a variety of fruit plants and crops to spice up your fields, with each prop adding something different and unique, allowing you to use the power of farming differently based on your situation and needs.
+Adding a variety of crops, each with different mechanics and traits, but still kept within vanilla balancing, we are hoping to give you a chance to tailor your farming industry to your liking. These plants are not meant to replace vanilla plants - they are balanced in-line with those, meaning rice and potatoes will still be useful!
+Fruit trees are biome-locked to two unique new fruit trees per biome, however bear in mind they do not differ nutrition-wise from one another - which is partly the reason why we decided to biome lock them. We also didn’t want to flood your farming menus with 12 different fruit trees that yield pretty much the same, but reskinned, item. This has all been done with the ease of use in mind.
+A new ability to plow soil has also been introduced once you meet the designated research. Plowing soil boosts its fertility to that of Rich soil, however when the plant is harvested, tilled soil returns to its previous form and needs to be plowed again.
+This mod has built in patches for Vanilla Cooking Expanded, adding new functionality, such as new condiment recipes!
+
+Vanilla Plants Expanded - More Plants by Sarg Bjornson, Oskar Potocki
+Vanilla Plants Expanded - More Plants is an add-on module for Vanilla Plants Expanded from the Vanilla Expanded team. This mod adds a variety of fruit plants and crops to spice up your fields even further, with each prop adding something different and unique, allowing you to use the power of farming differently based on your situation and needs.
+Two new unique types of growing zone have been added: sandy and aquatic growing zones. These add new crops each, that can only be grown on them. They ignore fertility, but their crops will take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space.
+Finally, by researching vegetable milk production, you can turn rice, coconuts, almonds, oats (with VE Cooking) and Soybeans (with VE Sushi) into milk. This is inefficient, and useful if a recipe NEEDS base game milk. It is not a way to work around Fine meals needing meat or animal products.
+
+Vanilla Persona Weapons Expanded by Oskar Potocki, Taranchuk
+Vanilla Persona Weapons Expanded is a mod that makes persona weapons a little bit more spicy - but only visually so. It never felt right that such a unique weapon does not actually look that unique - you can meet dozens of imperial royals, and all their persona weapons will just look like copies of themselves. I mean, you’d probably customize your own weapon to be a bit more unique if you had it, am I right?
+With this mod, players not only are guaranteed a persona weapon of their choice and design upon reaching a rank of a Baron/Baroness, but every persona weapon in the game will now have a unique look. There is over 50 thousand different combinations, so I really doubt you will see the same looking persona weapon twice.
+This mod requires Royalty DLC.
+
+Vanilla Outposts Expanded by legodude17, Oskar Potocki
+Vanilla Outposts Expanded will allow you to form a caravan, travel in the world map and create a camp. There are various types of camps, and each of them requires specific conditions to be met before they are set up. Each of these camps ships resources to the player. You are able to build a new Outpost Drop off spot to designate where the resources should appear.
+This allows you, the player, to set up resource chains and get rid of useless colonists at the same time. Be careful though, as outposts can be attacked and you will be forced to defend them!
+In case of any questions or bugs, use Steam Workshop comment section.
+
+Vanilla Ideology Expanded - Relics and Artifacts by Oskar Potocki, Sarg Bjornson, legodude17
+This mod adds another 40 'useless' relic items like Chalice, Ark or Shard in Ideology DLC. You can now find Shards of a Sword, mechanoid head, Mysterious orb and many, many more. Furthermore, this mod unlocks all the apparel in the game from being unable to spawn as relics, which means your colonists might now find holy power armor helmets or sacred boots. This should greatly enhance ideologies generated by the game.
+
+Vanilla Cooking Expanded by Oskar Potocki, Sarg Bjornson, Chowder
+Vanilla Cooking Expanded is a core module in a brand new mod series “Vanilla Cuisine Expanded” from the Vanilla Expanded team, notably Sarg Bjornson, Oskar Potocki and Chowder. Whilst other mods work very well without it, Vanilla Cooking Expanded makes use of fish from Vanilla Fishing Expanded as well as plants from Vanilla Plants Expanded in order to provide users with a more in-depth cooking experience.
+Mechanics are simple and intuitive - keeping within the vanilla spirit without the unnecessary fluff and production chains. Your colonists will be able to cook up a variety of new meal types, make mood boosting desserts out of fruits, make filling grilled meals that lose the effect when frozen, create large bakes using flour or produce large quantities of soup through boiling ingredients for several days at a time. Using our new system, you can now transform animal milk into cheese inside a cheese press - and it gains quality, and with that - value, the longer it’s inside! Yes, alongside Vanilla Factions Expanded - Medieval you can now create a cheese and wine empire! Hopefully this will provide one more reason to keep livestock!
+Our systems are heavily moddable and support a variety of pre-existing mods. With Vanilla Factions Expanded - Insectoids you can now transform insectoid milk into insectoid cheese, and thanks to Sarg Bjornson, you can now utilise 19 (!) types of milk from Alpha Animals, Vanilla Genetics Expanded and Alpha Bees to create your cheese empire!
+New ways of preserving food in the form of canning and deep frying, as well as a brand new condiment system will allow you to create not-so-filling gourmet meals that apply 12h long effects to people who consume them.
+
+Vanilla Books Expanded by Oskar Potocki, Taranchuk
+Vanilla Books Expanded is a mod allowing your colonists to pass their knowledge and skill to others. By writing a book about a particular field of science or skill, pawns will transfer their insights and knowledge, and when read, such books will train others in the same skill. Book reading is a new type of joy, with pawns picking up the books best suited for them based on their passions and skill sets, expanding on them whilst getting joy buffs.
+Books feature complex descriptions, letting you, the player, know what the book is about in a funny, quirky RimWorld style. Later technologies also allow you to write newspapers, providing joy but spoiling at a rapid rate. In addition to that, maps and blueprints can be found with traders - former unlocking quests, and latter unlocking technologies!
+Books take a long time to write - no one writes a book overnight, but they increase in quality and value the more skilled your colonist is in that particular field of study. With this mod you can build massive libraries and have pawns enjoy the books in their schedule. Take a minute to read the book descriptions as we have spent dozens of hours writing up different combinations of words to make the funniest descriptions possible!
+
+Vanilla Ideology Expanded - Memes and Structures by Oskar Potocki, Sarg Bjornson, Chowder
+Vanilla Ideology Expanded is a mini-series of mods aimed at expanding the content in ideology - be it memes, relics and symbols or icons alike.
+The goal of the Memes and Structures mod is to add unique memes, and… well, structures to your game. For some reason certain obvious choices like Shinto, Taoism and Eldritch were missing from the base DLC, and this mod is here to introduce them to the ideology creation.
+With unique memes, players will be able to diversify their playthrough every time they play. This should increase longevity of the game and also make it way more unique and personalised.
+This mod adds 36 new memes, alongside many new structures, rituals, precepts, specialist roles, items, objects and mechanics. It should greatly expand what Ideology has to offer, and meshes nicely with the rest of the DLC. With Vanilla Ideology Expanded - Memes and Structures you will be able to create powerful psykers that simply love chocolate, a corporate scrap trading business, a fishing republic, a bunch of god-king radicals, mechanoid technocratic union and much, much more.
+
+Vanilla Ideology Expanded - Icons and Symbols by Oskar Potocki, Sarg Bjornson
+Vanilla Ideology Expanded is a mini-series of mods aimed at expanding the content in ideology - be it memes, relics and symbols or icons alike.
+Icons and Symbols module adds over 200 new icons for ideologies. Icons have been categorised based on their looks and utilise respective tags to make sure they only appear on specific ideologies - you should not encounter a Transhumanist domination ideology with a flower as their symbol.
+In case of any feedback or bug reports, please utilise the comment section of the mod on the Steam workshop.
+
+Vanilla Ideology Expanded - Hats and Rags by Oskar Potocki, xrushha
+Vanilla Ideology Expanded is a mini-series of mods aimed at expanding the content in ideology - be it memes, relics and symbols or icons alike.
+This mod introduces many new headgear types and one new outfit type for your ideological pawns. No longer you will be limited by the selected few new headwraps and burkas for your Role generation - your leaders will now be able to wear amazing new headgear such as Horse mask or fez, while moralists will adorn themselves in rags, similar to those of typical monks.
+On top of that, Vanilla Apparel Expanded apparel is also patched with this mod, allowing it to be desired by ideologies or specific roles! Of course it doesn’t mean it’s random or anything, on the contrary, you can now expect that your shooting specialists might require military apparel, while medical specialists will want to wear medical scrubs.
+In case of any feedback or bug reports, please utilise the comment section of the mod on the Steam workshop.
+
+Vanilla Helixien Gas Expanded by Oskar Potocki, Kikohi
+Vanilla Helixien Gas Expanded is a brand new mod for the release of RimWorld 1.4. With this update, we've decided that it's best we split Vanilla Furniture Expanded - Power and the Helixien gas, as not only it gives us more control over it, but it's also the only logical choice, as the helixien gas is very complex and occupies a big portion of VFE-Power.
+When you update your Vanilla Furniture Expanded - Power to 1.4, you will no longer have Helixien gas in it. If you'd still like it: you need to download this mod as well. Previous Helixien gas system was coded by Fluffy, but because he is no longer around as often, we decided to move the system to the one written by Kikohi which we already used in Vanilla Chemfuel Expanded.
+With this mod you will be able to drill for Helixien gas and install a pump that gives you access to cheap, combustible and nearly infinite fuel supply. You can construct numerous appliances that rely on gas and are solar flare immune. From gas stoves and smithys to lamps and heaters, you can now bring the gas power to your colony.
+
+Vanilla Hair Expanded by Oskar Potocki, XeoNovaDan
+We have all been there, with a colony of a hundred pawns where everyone looks somewhat the same. Starting colonists with no character to their looks. This mod is our attempt at fixing that.
+We have worked hard to create a hundred new hairstyles that fit vanilla RimWorld perfectly! From tribals to space refugees, every possible pawn receives a set of new, fitting styles that add much needed character and soul to them, and with so many new possibilities, it’s unlikely two of your pawns will look the same!
+And in case they do, one of our major features is a barber’s table - a workbench available to be built from the very start of the game, that allows you to change the hairstyle, colour and beard style of your pawns. Yes, you heard me right. We’re also adding 15 beards, which have a solid 20% chance to spawn on any male colonist! If, however, beards are not something you’re into, you can disable them in the mod settings!
+
+Vanilla Furniture Expanded - Production by Oskar Potocki, Trunken
+Vanilla Furniture Expanded - Production module, is an ideal mod to fill that late game hole in production. Once you set up your vanilla workstations with tool cabinets scattered everywhere, you essentially got as far as you possibly can. This carefully designed, vanilla-fitting mod adds a new layer to workstation layout, hopefully allowing players to create manufacturing-designated rooms instead of one massive room with all the workbenches.
+Linkables:
+- Kitchen Sink Cabinet
+- Tailor Cabinet
+- Smithy Cabinet
+- Machining Cabinet
+- Drug Cabinet
+- Fabrication Cabinet
+Workbenches:
+- Component Bench
+- Fueled Smelter
+- Electric Butcher
+- Electric Drug Lab
+- Electric Stonecutter
+Manufacturing:
+- Large Machining Table
+- Large Electric Smithy
+- Large Stove
+- Large Tailoring Table
+
+Vanilla Furniture Expanded - Props and Decor by Oskar Potocki
+Vanilla Furniture Expanded - Props and Decor is a major mod release that has been in production for almost 8 months. The main aim is to provide much needed customizability to your bases and cities, a way to add some detail to your rooms and buildings, and to generally allow you to place more of “you” inside the game.
+This mod adds almost 350 hand drawn, vanilla-like props, spread across several categories, from place-able filth to space ships. All these props have no functionality in the game - a sink prop doesn’t use Dubs Bad Hygiene, a shelf prop isn’t an actual shelf, and it doesn’t need Deep Storage to work. All these props are simply decorations, and to reward players for placing them, they each provide 1 Beauty - which means they slightly level the beauty rating of the room they are in.
+Why didn’t we add functionality to these props? Because of the sheer amount of them - I wouldn’t forgive myself if I didn’t add function to ALL of them. I wouldn’t be satisfied with just 30 props with functions while the rest would just be props. I have then decided all of those should be simply props, as the name of the mod suggests.
+Well don’t wait any longer, download this mod, use the new props to decorate your base and make sure to tell your friends about it too! Everyone wants to place a puddle of vomit in their hospitals!
+
+Vanilla Furniture Expanded - Security by Oskar Potocki, Trunken, XeoNovaDan
+Vanilla Furniture Expanded - Security module is a result of hours upon hours of hard work. It has been a long time since we began working on this mod, and with a team of brilliant programmers, I am not honored to present to you a Vanilla Expanded approach to base defenses. Every word and every stat in this mod have been carefully prepared to be as balanced and as “vanilla” as possible.
+This module introduces 27 new defense structures, all neatly filling up the Security tab in the Architect menu. With research technologies spread out across all stages of the game, this mod itself is enough to provide you with hours of entertainment.
+
+Vanilla Furniture Expanded - Power by Oskar Potocki, Sarg Bjornson
+Vanilla power generation is somewhat lackluster late game - Not only the game strongly encourages the use of solar panels and wind turbines as they provide significantly more energy at the cost of no fuel, but it also stops there - there is no technological progression in regards to power. Whether you’re an early industrial colony, or a spacer super-empire (and we all like to roleplay different ways), you’re bound to use the same power sources.
+Vanilla Furniture Expanded - Power module adds a plethora of new power sources, ranging all the way from small portable generators and large scale industrial ones, all the way to advanced spacer-tech green energy sources and a unique, and yet easy to understand nuclear generator. A selection of new batteries will help you with storing the power, whist the new utilities like a lightning rod and chemfuel pump will give you brand new ways of obtaining power and fuel.
+A new, vanilla-fitting energy chain has been added in the form of helixien gas - a combustible substance found mostly on the planets on the galaxy rim. It can be used to power a vast array of new gas-operated structures, making them completely immune from solar flares! Helixien gas can be stored in gas tanks for later use, uses a gas pipe system for connecting to structures and can easily be turned into electricity using gas-operated generators!
+
+Vanilla Furniture Expanded - Architect by Oskar Potocki, xrushha, legodude17, ISOREX
+Vanilla Furniture Expanded - Architect has been on my mind for a very long time. I always download every single mod adding new floors or fences, but I quickly become buried under all the new options, and eventually get pissed off because some of those options don't exactly fit Vanilla game in my eyes.
+I want new carpet colors, but I don't want all RGB hues - I want a small, tailored selection that fits the game. I want new tiles and floors, but I don't want 100 different patterns that have no distinction between them other than the looks. I want new fences, but I don't want more fence types than there are floor types. I want less, but I want more significant!
+Thus, Architect Expanded was born. Not only does it add new walls, fences, floors and carpets in various, vanilla-fitting colors, it also adds stone and metal bridges, as well as foundations that you can place on sand, so building in the desert will no longer be a problem! I seem to have forgotten to mention that wood now comes in 4 colors, all using just the base wood resource - so you can decide upon building what color your wooden objects will be!
+I really hope you will enjoy everything this mod has to offer, and it will allow you to make your colony at least twice as beautiful to look at.
+
+Vanilla Furniture Expanded - Art by Oskar Potocki, Sarg Bjornson
+Vanilla Furniture Expanded - Art module is something long overdue. Being an artist, I struggled to comprehend why the only type of sculptures we can make are small, large or grand artworks on a tiny pedestal. It made Artistic skill pretty much undesirable. Come on, how many times have you said to yourself “Oh crikey, that’s another pawn that can only do art”?
+A lot of people requested this mod on my Patreon so it’s about time I deliver. With this mod, your colony can create simple pottery from neolithic times, allowing you to gain some silver on the side to kickstart your base into the medieval era. Several new pieces of sculptures are available by the likes of small, large and grand statues, wall reliefs, decorative pillars and plinths that act both as an artwork and a shelf.
+With industrial era your colony will be able to produce beautiful embroidered rugs to decorate those ugly floors! A new type of wall - wallpaper - is now also available, allowing you to put some colour onto your grim, broken walls. Spacer era features a new type of art called a hologram, emitting beautiful shade of blue light and using intellectual skill to determine the quality of it - however it does use up power!
+And if that isn’t enough, a new type of quest reward is available - Archotech sculptures, not only being extremely beautiful and desirable, but also imprinting stunning imagery in the minds of surrounding colonists!
+
+Vanilla Furniture Expanded - Farming by Oskar Potocki, dninemfive, Kikohi
+Vanilla Furniture Expanded - Farming module is a great way to boost the efficiency of your colonies when it comes to providing food on the table. With a plethora of new hydroponics - one for early game and one for late game, you can really witness the technological progression of your colony - and gain more enjoyment from the game itself.
+A very popular request on all suggestion threads on RimWorld Ludeon forums is draggable hydroponics - at this point I believe it’s my duty to deliver, hence all three kinds of hydroponics now have a draggable version! Make it any shape you want!
+New structures by the likes of animal feeder, a sprinkler and a scarecrow have been added, each with unique code to make them feel more authentic. The scarecrow will actually make animals flee, hence stopping them from devouring all your precious potatoes!
+
+Vanilla Furniture Expanded by OskarPotocki, Atlas, Kikohi
+I have always found vanilla furniture to be lacking in depth and quantity. After researching Complex Furniture, the research tree for furniture pretty much ends, with a couple of odd technologies adding things like Vitals Monitors and Hospital Beds along the way. As part of the Vanilla Furniture Expanded mod, the team consisting of the Author of Android Tiers, Atlas, and me would like to add some sort of progression to the furniture of the rim, whilst also keeping it Vanilla friendly.
+
+Vanilla Expanded - Ideology Patches by Oskar Potocki, Kikohi
+Vanilla Expanded Ideology patches is a large collection of patches for all of our Vanilla Expanded mods, bringing key functionality to complement Ideology DLC mechanics. This patch collection will be constantly updated as time goes on with new Vanilla Expanded mods.
+
+Vanilla Expanded - Royalty Patches by Oskar Potocki, Kikohi
+Vanilla Expanded Royalty patches is a large collection of patches for all of our Vanilla Expanded mods, bringing key functionality to complement Royalty DLC mechanics. This patch collection will be constantly updated as time goes on with new Vanilla Expanded mods.
+You do not need all the Vanilla Expanded mods for this to work - the patches trigger only if their respective mods are found.
+This mod requires Royalty to work, obviously.
+
+Vanilla Cooking Expanded - Sushi by Sarg Bjornson, Oskar Potocki
+Vanilla Cooking Expanded - Sushi is the second sub-module to the new Vanilla Cuisine Expanded mod series. This particular mod introduces sushi - a fish and rice based food that is immensely popular on the Rim.
+The module is an amazing way to make good use of our fishing mod, since all sushi meals need fish. It also includes two new plants, wasabi and soybeans, and two new condiments extracted from them: wasabi paste and soy sauce. Soy sauce needs to be fermented, and its quality will increase with time, in case you decide to use it as a "cash crop".
+And of course you can always deep fry your sushi.
+
+Vanilla Cooking Expanded - Stews by Oskar Potocki, Sarg Bjornson, Chowder
+Vanilla Cooking Expanded - Stews is a first sub-module to the new Vanilla Cuisine Expanded mod series. This particular mod introduces medieval stews - which are more nutritious, more expensive soups that are cooked over time on the wood-fired pot.
+Ideal for your medieval colonies and long winter nights, these stews remove any debuffs from eating ingredients like insect meat and human meat! Time to sneak some human flesh into your diet.
+Bone Apple Tie (sic!).
+
+Vanilla Events Expanded by Oskar Potocki, Kikohi, Helixien
+Vanilla Events Expanded adds several new events to the game, all in line with vanilla events - nothing too drastic. A new tier of events is added - Purple events. Instead of having strict negative or positive effects, purple events force players to adapt as they last significantly longer than events like Toxic Fallout or Volcanic Winter.
+
+Vanilla Chemfuel Expanded by Oskar Potocki, Kikohi
+Vanilla Chemfuel Expanded is a small mod created to showcase what the new Pipe network code is capable of in Vanilla Expanded framework. It adds a simple chain to extract Deepchem from the underground pockets and refine it into Chemfuel. It also adds storage solutions for both Deepchem and standard chemfuel, alongside a few structures including a Refinery and Chemfuel tap. Player can now connect any refuelable chemfuel-powered structures to the pipe network to make sure everything refuels automatically.
+This mod is not trying to be better than other available chemfuel-related mods. Instead, it exists to showcase what our framework is capable of doing, and to provide an example for other modders what they can do if they choose to use Vanilla Expanded Framework. As a by-product, it's a vanilla-friendly mod that adds an infinite source of chemfuel provided that the player constructs the required infrastructure.
+
+Vanilla Brewing Expanded by Oskar Potocki, Sarg Bjornson, Chowder
+Vanilla Brewing Expanded is an alcohol-oriented module in “Vanilla Cuisine Expanded” from the Vanilla Expanded team, notably Sarg Bjornson, Oskar Potocki and Chowder. Whilst other mods such as Vanilla Plants Expanded and Vanilla Fishing Expanded work well as standalone, due to technical limitations Vanilla Brewing Expanded requires the Core cooking mod.
+We made sure to keep the mechanics of this mod simple and intuitive without ruining the spirit of vanilla gameplay. All elements of this mod offer unique advantages and disadvantages, enhancing the depth of the game a thousandfold. With 7 unique, new alcohol types, you can now tailor your colonists’ drinking habits to your liking, with each alcohol having a unique production chain, buffs, downsides and uses.
+We strive to add unique elements for every single one of our players. A widely requested feature - tea and coffee, has also been added, allowing you to brew an immunity boosting hot tea, or whip out hot and iced coffees that help with staying awake and provide help against hypothermia and heat stroke respectively. Cigarettes and cigars also make an appearance, very addictive but incredibly helpful in stressful situations.
+
+Vanilla Brewing Expanded - Coffees and Teas by Sarg Bjornson, Chowder, Trahspanda
+Vanilla Brewing Expanded - Coffees and Teas
+Vanilla Brewing Expanded - Coffee and Tea is another sub-module to the new Vanilla Cuisine Expanded mod series. This particular mod introduces 8 new types of coffee and 9 new types of tea, with ties in to other Vanilla Cuisine Expanded mods, with each coffee and tea granting unique effects!
+From regular lattes and pumpkin spiced coffee, to kombucha and cannibal coffee, this mod has something for everyone, and will surely help your pawns warm up in the cold winter evenings!
+With Vanilla Plants Expanded you will gain access to Lemons, and Vanilla Cooking Expanded will allow you to farm mint - a new condiment boosting social impact!
+
+Vanilla Base Generation Expanded by Kikohi, Oskar Potocki
+Vanilla Base Generation Expanded is a mod many have been waiting for. Probably one of the most disappoint aspects of venturing out in a caravan in RimWorld is the fact that no matter where you go and no matter what base you raid, after you’ve seen one, you’ve seen them all. Vanilla Bases tend to often resemble so called ‘20 granite door borg cube bases’.
+Kikohi set out on a mission to fix that, and with the help from our testing community, we have created a huge library of assets that the base will pull out of, procedurally generating unique villages, towns and megabases every time you visit a new location.
+The look of the bases and the assets use vary from faction to faction - tribal villages will have swathes of farmland around them, whilst pirate bases will be essentially bunkers with mortars and automatic defenses.
+
+Vanilla Armour Expanded by Oskar Potocki, Trunken, Sarg Bjornson
+Vanilla Armour Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Weapons Expanded and Vanilla Apparel Expanded, you can bring something to your game that will keep you interested in it for days.
+Armor is spread across several new technologies that need to be researched which in turn adds valuable game time before you achieve everything there is to achieve. New items cover all technological eras, from wooden armours of neolithic tribes, through chainmails and chestplates of medieval kingdoms, bulletproof vests and ghillie suits of the modern era combat all the way to two, brand new variants of a regular marine armor - one of them with an integrated ranged shield belt!
+
+Vanilla Apparel Expanded — Accessories by Oskar Potocki, xrushha, SmashPhil
+Equip various utility items.
+
+Vanilla Apparel Expanded by Oskar Potocki, Trunken
+Vanilla Apparel Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Weapons Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+Apparel is distributed into several new technologies that need to be researched, expanding the life of the game and possibly leading to some interesting choices - research a way to get off this planet? Or maybe learn how to craft jeans and workwear?
+This mod adds a wide selection of apparel with useful effects, including but not limited to:
+Gas masks protecting from toxicity;
+Jumpsuits and aprons for work speed boost;
+Doctor scrubs and Chef’s uniforms.
+
+Vanilla Animals Expanded by Sarg Bjornson, Oskar Potocki
+Vanilla Animals Expanded is a large mod that contains almost all previous Vanilla Animals Expanded modules, this time merged into one big mod. Fear not, however - last thing we want is to bloat your game: you can now disable individual animals in mod options! You can only enable the animals that appear in your biome if you want.
+The reason we merged all the animal mods is because they are finished - the only new animals we have planned fit into standalone packs. We have already covered all the biomes, so it’s only proper we clean it up and make it into one big mod.
+No, we have no plans to merge any other mods together.
+This mod adds dozens of new animals that fit RimWorld aesthethic, from house cats and rottweilers to anacondas and indian elephants, it really breathes a lot of life into the game and makes every biome feel very, very unique.
+
+Vanilla Animals Expanded — Royal Animals by Oskar Potocki, Sarg Bjornson, Erin
+Royal animals is something we have promised a long time ago, and never quite found the time to deliver. From the very initial notions, what we wanted to do is to introduce some special animals with unique gimmicks that could go alongside the pampered nobles in the Royalty DLC.
+This is a great opportunity for us to create something super unique and not entirely realistic - whilst also making the Royalty DLC more attractive by utilising mechanics and code added in it. I hope this selection of animals will make you want to collect them all, as each of them comes with a unique function that’s bound to come in handy.
+
+Vanilla Animals Expanded — Endangered by Oskar Potocki, Erin, Sarg Bjornson
+Remember how I said the Temperate animals mod was the last one? Well, people lie. There is still a few animals around the world that we did not yet make into actual RimWorld animals - and this time we have decided to also raise awareness of the big issue in our world - endangered species and animal conservation.
+From pandas and pangolins to already extinct tasmanian tigers and quaggas, you can now help with animal conservation in RimWorld. These animals, just like in our world, are endangered, and don’t appear naturally on the map. Instead, they can arrive in a rare ‘Endangered animals wander in’ event, giving you a chance to tame them and breed them. Releasing them to repopulate their species - which is a new option added by this mod - allows you to gain relations with other factions too!
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Endangered biome expansion. It adds 11 new animals that will spawn as part of a new event. They have vanilla artwork, sounds and balancing.
+Credit: Some sounds by Daniel Simion http://soundbible.com/2208-Tasmanian-Devil.html
+
+Vanilla Animals Expanded — Caves by Oskar Potocki, Sarg Bjornson
+Caves is one of the biomes we have never covered or even considered covering before, but here we are! With this mod, you can tame powerful cave bears, collect colorful blind salamanders, run away from insectoid hulks, bond with incredibly agile and dangerous wyrms, get poisoned by cave crawlers or discover giant spider nests!
+This mod supports the Arachnophobia setting which removes legs from the spiders, making them look much more friendly!
+This mod has been commissioned by Aquiles and created and balanced by Vanilla Expanded team.
+Vanilla Animals Expanded is a modular mod. It means it will come out in several modules allowing people to subscribe to only the animals they want in the game. This part is the Endangered biome expansion. It adds 11 new animals that will spawn as part of a new event. They have vanilla artwork, sounds and balancing.
+
+Pick Up And Haul by Mehni
+"Greatest hauling mod ever" - Chicken Plucker
+v1.1.1⅓
+Colonists will gather stuff in their inventory, then haul it all to a stockpile.
+This hauling mod will greatly increase hauling efficiency, because pawns can now carry more than one gun or t-shirt. Those smart and intelligent colonists can use their inventory!
+Safe to add to existing games.
+Fully compatible with Combat Extended. Credits and thanks:
+- AlexTD, for his direct contributions
+- erdelf, Zorba, Whyisthat and Dingo for code and advice (yet again!)
+- Chicken Plucker, for the preview image
+- Brrainz, for the amazing Harmony library
+- mlie, for keeping it warm
+- Spanish translation, courtesy of mora145 and 53N4
+- Russian translation, courtesy of HanabishiRecca
+- Korean translation, courtesy of Defo and Pu Rn Ha Ni
+- Chinese translation, courtesy of 烨灬 and shiuanyue
+- PortugueseBrazilian translation, courtesy of Bambinoff/Edu
+- Italian translation, courtesy of kenciccio
+- German translation, courtesy of Prism
+- French translation, courtesy of qux
+Ludeon: https://ludeon.com/forums/index.php?topic=35832
+Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=1279012058
+GitHub: https://github.com/Mehni/PickUpAndHaul/releases
+
+More Vanilla Textures by Tidal
+Updates vanilla textures to be higher resolution and have more variety.
+
+Mod Error Checker by Taranchuk
+The mod will check other mods for various errors and show them on startup with mod names. The following errors can be caught:
+- Old assemblies that aren't compiled against the newest game version and contain missing fields or methods references.
+- Various XML errors like missing thing class, worker class, comp classes, or sound files.
+Useful if you have mods updated to 1.4 but still have old assemblies not working properly or have some misconfigured XML code.
+You can use the log output to file bug reports to mod authors but check if you have the mods updated to latest versions.
+
+Metal Don't Burn (UNOFFICIAL 1.4 PATCH) by Neceros (Original), Chris
+Metals don't burn. So, stop it! Bad Rimworld. (Unofficial 1.4 Patch)
+
+JecsTools by jecrell, contributors
+1.4.1.1 (10-28-2022)
+Adds modding components to RimWorld: vehicles, spell casting, weapon slots, oversized weapons, and more!
+Note to players: This mod will not change your game, but rather it lets modders do more, so you can have an even more amazing RimWorld experience.
+Note to modders: This mod is filled with lots of tools that allow you to do many new and different things in RimWorld. Check out RoxxPloxx's guide for more info here: https://github.com/roxxploxx/RimWorldModGuide/wiki
+Partial list of components:
+CompAbilityUser
+- Adds spell/ability casting to humanlikes.
+CompActivatableEffect
+- Adds an activation graphic for weapons (e.g. lightsaber beam).
+CompDeflector
+- Allows the ability to knock projectiles to melee weapons.
+CompExtraSounds
+- Allows extra melee sounds to weapons.
+CompLumbering
+- Makes a staggered walking animation. (e.g. ATST walking effect)
+CompOversizedWeapon
+- Allows weapons with graphic sizes that can be bigger than RimWorld's limits.
+CompSlotLoadable
+- Adds slots to objects that can be filled to have effects. (e.g. different ammo types for guns, crystals for lightsabers)
+CompToggleDef (by Roxxploxx)
+- Allows for something to despawn, change its def, and respawn.
+CompVehicle (experimental for 1.0, removed for 1.1+)
+- Allows for a pawn to be treated as a vehicle that can be loaded with pilots, gunners, crew, and passengers.
+CompInstalledPart (WIP)
+- Allows installation and uninstallation of things onto other things. This is particularly useful for weapons on vehicles.
+Additions by ChJees
+Additions by roxxploxx
+Additions by Swenzi
+Additions and transpilers by Erdelf
+Extensive hours of testing, debugging, and fixes by Xen
+Improvements by lbmaian
+"Hey, should we make this into a public toolset for people to take advantage of all this cool stuff?" - Jecrell
+"Hell yes - this is awesome stuff - people will love it!" - Xen
+Thank you to my Patrons for supporting me in my efforts. Without you, none of this would be possible.
+These are the most excellent rim dwellers who support me:
+
+Darcilyn Lynds (darci.andel), Luke Salinas, RainerWingel , Noisy Koi, Lea Stannard, David Silberstein, Matt Harris, Kiya Nicoll, Paul Fenwick, Genaeve , Populous25 , David Turner, TinyATuin, Michael Cailler, Jimes Tooper, Sharp Spook, Don Homer, roxxploxx , Alex Mederer, Dan Jones, Michael Whitehead, iknowdude00, Kaz, Alexander , Ken Birdwell, Darcilyn Lynds (darci.andel), Luke Salinas, RainerWingel , Noisy Koi, Lea Stannard, David Silberstein, Matt Harris, Kiya Nicoll, Paul Fenwick, Genaeve , Populous25 , David Turner, TinyATuin, Michael Cailler, Jimes Tooper, Sharp Spook, Don Homer, roxxploxx , Alex Mederer, Dan Jones, Michael Whitehead, iknowdude00, Kaz, Alexander , Ken Birdwell
+Changelog
+1.4.1.1 (10-28-2022)
+Added xenotype boolean for PawnkindGeneExtension. Code housekeeping done as well
+
+1.4.1.0 (10-27-2022)
+Modders can now give PawnKindDefs random chances for genetics using JecsTools.PawnKindGeneExtension on PawnKindDefs under modExtensions
+
+1.4.0.0 (10-21-2022)
+Initial update for RimWorld 1.4 of JecsTools
+
+1.3.0.5 (10-09-2022)
+Updated assemblies for RimWorld 1.4 unstable support.
+- JecsTools BackstoryDef now inherits new RimWorld BackstoryDef setup. Once again based on erdelf's work.
+
+1.3.0.4 (08-08-2022)
+damageTypesToExclude was not working correctly and has been fixed. Grappling a pet will always succeed which should prevent some fustration. Credit for this update goes to Gefallener from our RoM Discord.
+
+1.3.0.3b (07-31-2021)
+Workaround for mod lists that contain other mods with an outdated copy of CompOversizedWeapon that's loaded before ours
+
+1.3.0.3 (07-30-2021)
+Due to compatibility issues, the patch for Enable Oversized Weapons will require additional work. Reverting back to the previous version.
+
+1.3.0.2 (07-29-2021)
+Carny Senpai's Enable Oversized Weapons is now supported and JecsTools CompOversizedWeapon will yield for it.
+
+1.3.0.1 (07-24-2021)
+Fix regression in RW 1.1 & 1.2 by using separate defs for 1.1+1.2 and 1.3
+
+1.3.0.0 (07-24-2021)
+lbmaian's 1.3 and 1.2 updates have been merged and are now available on the main JecsTools branch. Stay tuned for updates to out of date mods as we move into 1.3.
+
+1.2.0.0 (07-24-2021)
+Note: Starting from this version, changes only apply to RimWorld 1.3+.
+- source branch for assemblies supporting RimWorld 1.1 and 1.2: https://github.com/lbmaian/JecsTools/tree/rw1.2
+- source branch for assemblies supporting RimWorld 1.0: https://github.com/lbmaian/JecsTools/tree/rw1.0
+Preliminary update to support RimWorld 1.3
+Lots of performance improvements (too many to list - look at the individual commit descriptions since commit d0e37a8 for details)
+New features and fixes:
+- CompAbilityUser:
+- revamped CombatPower-based pawn generation balancing to actually work
+- PawnAbility.TryCastAbility now checks for matching verbProps again (regression since RW 1.1)
+- fix AbilityDecisionNode subclasses ignoring the invert field in certain cases
+- fix various assumptions that there's only a single CompAbilityUser when multiple CompAbilityUsers are common
+- CompOversizedWeapon: improved thing-on-ground detection for graphics
+- CompSlotLoadable:
+- avoid showing unavailable slot options
+- improve stats display
+- fix doesChangeStats only affecting stats display (and not the actual stats value)
+- updated to latest vanilla logic (exceptions noted in TODOs), centralize most stats logic
+- avoid bloating save file if slottableThingDefs is same between SlotLoadable and SlotLoadableDef
+- CompToggleDef:
+- improved GUI to be more like vanilla
+- add toggle GUI for colonists with toggleable weapons
+- fix ranged weapon toggles not working properly
+- changed thing is reselected and has graphics refreshed after toggle
+- avoid toggling to the same def
+- CompSlotLoadable:
+- configurable per-body-part amountRange in SlotBonusPropsDefensiveHealChance and SlotBonusPropsVampiricEffect
+- configurable damageDef and armorPenetration in SlotBonusPropsVampiricEffect
+- update body part healing to be consistent between DefensiveHealChance and VampiricEffect (randomized, skip already healed body parts)
+- CompAnimated: added layerOffset to CompPropertiesAnimatedOver (thanks Aelanna!)
+- BuildingExtension: wipeCategories should now consistently work
+- HediffCompExtraMeleeDamages: updated to latest vanilla logic (damage now created just like those from Tool.extraMeleeDamages)
+- HediffCompDamageSoak: damage soak amount no longer rounded to integer
+- HediffCompKnockback:
+- configurable knockbackSound (was broken), KnockImpactDamageType (instead of always Blunt), knockbackSpeed, and knockbackThought
+- configurable explosiveProps (CompPropertiesExplosive)
+- knockDistance now accepts floating points
+- add knockDistanceAbsorbedPercentCurve and knockDistanceMassCurve that controls how damage soak and mass affect knock distance
+- improve push angle algorithm so that it's no longer always a diagonal
+- prevent multiple knockbacks occurring due to multiple damage infos (e.g. extra damage) for same instigator+target
+- FlyingObject: configurable props (ProjectileProperties) and accuracyRadius
+- FlyingObjectEquipable allows equipping apparel along (not just weapons)
+- PawnShields: support generating biocoded shields when generating pawns
+- PlaceWorkerUnderCeiling: works again (regression since RW 1.1)
+- PlaceWorkerOnTopOfWalls: also considers anything with BuildingProperties.isPlaceOverableWall as a wall
+- CaravanJob: fix placedThings type (old regression since RW 1.0)
+- other misc minor fixes, code cleanup, and code documentation
+Deprecated:
+- ApparelExtension:
+- swapCondition: use vanilla apparel.gender instead
+- coverage: use vanilla apparel.layers and custom ApparelLayerDef instead
+- AbilityUser.GetCompAbilityUser/AbilityUtility.Abilities: use GetCompAbilityUsers (plural)
+- HediffCompKnockback explosiveKnockback/explosionDmg/explosionSize: use explosiveProps fields instead
+- FlyingObject speed/impactDamage/explosion: use props.speed/extraDamages/explosionRadius
+- ProjectileExtension: seems to have never worked properly due to incomplete implementation
+- some fields have been deprecated in favor of properties
+Removed:
+- JecsTools' CompConsole and related Faction stuff (broken since RW B19)
+- CompVehicles (broken and commented out since RW 1.1)
+- CompProperties_OversizedWeapon.offset (mostly broken since version 1.0.9.3)
+- some public classes and methods have been moved or removed
+
+1.1.2.3 (05-09-2021)
+Update French translation (thanks qux!), rebuild to latest RW version
+
+1.1.2.2 (10-23-2020)
+Fix CompAbilityUser subtype search to not cause errors (such as broken world gen) if another mod's assembly contains references to missing/wrong-version dependencies (even if they are optional dependencies).
+
+1.1.2.1 (08-13-2020)
+Fix regressions in RW 1.1 version by compiling separate assemblies for RW 1.1 and RW 1.2 to account for different enum/constant values in RW assemblies
+
+1.1.2.0 (08-11-2020)
+Performance improvements, various fixes, improved stats display for shields and deflectors, code cleanup (full changelog in https://github.com/jecrell/JecsTools/pull/15)
+
+1.1.1.2 (03-29-2020)
+Activatable weapons now activate in defense thanks to code from qadsad.
+
+1.1.1.1 (03-20-2020)
+Fixed issues with damage soak and extra damages. Extra damage should now be dealt properly and damage soak should now deflect damage properly.
+
+1.1.1.0 (03-15-2020)
+AbilityUser should now report when line of sight failure takes place for abilities. Extra damages no longer gives errors in combat logs.
+
+1.1.0.20 (03-07-2020)
+DefModExtensionExtraSounds is now processed in the CompExtraSounds Harmony patch. Different pawns with DefModExtensionExtraSounds in their PawnKindDef can make extra on-hit attack sounds.
+
+1.1.0.19 (02-29-2020)
+Hotfix for adding compatibility between the newest version of RimWorld and the previous version of 1.0.
+
+1.1.0.18 (02-29-2020)
+Added cross compatibility for RimWorld 1.0 as well as RimWorld 1.1.
+
+1.1.0.17 (02-29-2020)
+Updates JecsTools for use in RimWorld 1.1
+
+1.1.0.16 (11-16-2019)
+Adds in various work-in-progress code changes. Adds a belated Japanese translation update from Proxyer. Adds a force user code fix from Mehni. Adds BigBox - a solution for larger selection boxes for oversized pawns (such as dragons).
+
+1.1.0.15 (12-14-2018)
+Removes apparel detour and replaces it with a harmony patch (thanks to Mehni)
+
+1.1.0.14 (11-18-2018)
+Added AlienRace BackstoryDef functionality into the JecsTools namespace
+
+1.1.0.14 (11-18-2018)
+Added erdelfs BackstoryDef functionality from AlienRaces to JecsTools.
+
+1.1.0.13 (11-03-2018)
+Removed unneeded assemblies from source. Properly includes ThinkNode.dll in the correct location for public usage.
+
+1.1.0.12 (11-03-2018)
+Adds ThinkNodeConditionalWorkTypeDefs, ThinkNodes.JobGiverCapture, JobGiverGoToClosestThingDef, ThinkNodeConditionalHediff, ThinkNodes.ThinkNodeConditionalHunter, ThinkNodeConditionalDelay, ThinkNode_ConditionalMissingHuntingWeapon by AliceCecil
+
+1.1.0.11 (10-29-2018)
+CompProperties_AnimatedOver added by AliceCecil to draw on top of existing ThingDefs.
+
+1.1.0.10 (10-28-2018)
+AliceCecil has adjusted the CompAnimated code to support buildings and other objects (ThingWithComps).
+
+1.1.0.9 (10-19-2018)
+Added a try and catch to the ProjectileExtension Harmony patch for CanHitCellFromCellIgnoringRange. This should allow for proper ability casting again.
+
+1.1.0.8 (10-18-2018)
+Changed very few issues to allow for the update for RimWorld 1.0.
+
+1.1.0.7 (10-02-2018)
+The wall placeworker now also allows other types of walls.
+
+1.1.0.6 (09-30-2018)
+Adds new BuildingExtension class to allow for bypasses to SpawningWipes. Perfect for adding furniture on top of existing tables.
+
+DragSelect by telardo
+This mod allows you to drag and select multiple items in trade, caravan, and transporter loading windows.
+
+Smarter Construction by dhultgren
+Stop your pawns from constantly building themselves into a wall or blocking something that isn't built yet. Save game compatible.
+
+Smart Turret Covering by denev
+Overview
+Turrets can be covered by adjacent objects, but 2x2 or larger turrets can only take cover on the bottom-left-most tile.
+In other words, when attacked from the upper right, turrets are considered uncovered and don't receive any cover effect.
+This mod allows 2x2 or larger turrets to be covered by adjacent object in all directions.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+概要
+砲塔は､隣接するバリケードなどで掩蔽できますが､2x2以上の大きさを持つ砲塔は､左下のタイルしか掩蔽されません｡
+言い換えれば､右上から攻撃された場合は（仮に障害物があっても）掩蔽されていないと見なされ､掩蔽率は0になります｡
+このMODは､2x2以上の砲塔も隣接する障害物で全方位から掩蔽できるようにします｡
+
+Romance On The Rim by telardo
+The goal of this mod is to make vanilla romance more lively and flavourful. It adds a new "Romance" need and several romantic interactions, thoughts and precepts.
+
+Quality Colors by legodude17
+Colors the items in the trade window based on quality.
+
+Masks with Hats by tk421storm
+Allows masks to be worn along with hats that cover (only) the top of the head.
+
+Automatic Night Owl by Ben
+Automatically assigns the sleep schedule for pawns with the night owl trait.
+
+[SBV] Recreational Drum Use by Khitrir
+Drums are half implemented as musical instruments in vanilla RimWorld - left unable to be used for recreation, concerts, and without quality to make them worth building at later game stages. This mod aims to fix that and implement all of the same features as other musical instruments, including occasional concerts for the other colonists if Royalty is installed.
+
+RimTraits - Vanilla Trait Colors by Sierra
+[h1]Mod Version: v1.10[/h1]
+This mod changes [b]Vanilla[/b] and [b]Modded[/b] trait colors according to their commonality using the RimTraits coloring scheme.
+[b]Features:[/b]
+[list]
+[]Vanilla trait coloring
+[]Modded trait coloring (4 mods)
+[/list]
+[b]Supported Mods:[/b]
+[list]
+[]RimTraits - General Traits
+[]Vanilla Traits Expanded
+[]Vanilla Fishing Expanded
+[]Medieval Overhaul
+[]Additional Traits (Heroes + Gods Optional)
+[/list]
+[b]Recommended Mods:[/b]
+[list]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url]
+- [i]De facto mod for Medieval games.[/i]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2646321064]Medieval Empire Overhaul[/url]
+- [i]Requires Medieval Overhaul. Changes Empire faction from Spacer to Medieval.[/i]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2836791007]RimFantasy - Medieval Overhaul Edition[/url]
+- [i]Core mod for RimFantasy. Adds various gem-based magical furniture and weapons. Requires Medieval Overhaul.[/i]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2903293603]RimFantasy - House Doyle[/url]
+- [i]Official RimFantasy AddOn. Adds player craftable house armor plus a new line of Arcane Weapons.[/i]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1916352291]RimTraits - Medieval Talents[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colours[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2897850163]DLC Mechanics Patch[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595980371]Milkshakes - Digital Deluxe Edition[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027]RimHUD[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1855885448]Guard For Me[/url]
+[/list]
+[b]Mod Compatibility:[/b]
+[list]
+[][Minor Conflict] Conflicts with mods that changes trait color based on commonality.
+[/list]
+[url=https://ko-fi.com/sierra0001][img]https://i.imgur.com/SBiUpbW.png[/img][/url]
+[b]Balance:[/b]
+Balance is not particularly relevant in this mod, as commonality is unaltered or dependent on mod usage.
+[h1]Credits:[/h1]
+[list]
+[]Ogliss for helping me figure out how patching works.
+[]Gouda quiche for helping me figure out how patching works.
+[]Mascot inspired and based on Geneforge by Spiderweb Software (Go play the series, it's great).
+[/list]
+(CC BY-NC-ND 4.0)
+[h1]Troubleshooting & Bug Reports:[/h1]
+Join the Discord (link below) for troubleshooting and bug reports. Steam is a terrible platform for support and I will not be using it to deal with anything longer than a simple answer.
+[h1][url=https://discord.gg/rimworld][img]https://i.imgur.com/Y2Bdoia.gif[/img][/url][/h1]
+[h1]Latest Changes:[/h1]
+[list]
+[][DEV] Updated for Additional Traits (Heroes + Gods Optional).
+[*][New] Added Support for Medieval Overhaul.
+[/list]
+
+RimTraits - General Traits by Sierra
+[h1]Mod Version: v1.16[/h1]
+[h1]Get [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colors[/url] to change your Trait Colours to match this mod![/h1]
+This mod adds 46 traits defining a pawn's attributes, some are mutually exclusive to each other with increasing rarity for the higher tier traits.
+This mod aims to add more minor traits that give each pawn a bit more uniqueness.
+[b]Features:[/b]
+[list]
+[]46 Traits
+[/list]
+[b]Recommended Mods:[/b]
+[list]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2836791007]RimFantasy - Medieval Overhaul Edition[/url]
+[b]- Recommended for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url] users. Incompatible with the other RimFantasy mods.[/b]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2630669656]RimFantasy - Gemstones[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2630670287]RimFantasy - Temperature Regulation[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2632845986]RimFantasy - Crystallic Lighting[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2634323159]RimFantasy - Arcane Batons[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2656314145]RimFantasy - Arcane Defences[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2651522590]RimFantasy - Arcane Weapons[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2655568216]RimFantasy Addon - Heroic Weapons[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1916352291]RimTraits - Medieval Talents[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colours[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595980371]Milkshakes - Digital Deluxe Edition[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027]RimHUD[/url]
+[][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1855885448]Guard For Me[/url]
+[/list]
+[b]Mod Compatibility:[/b]
+[list]
+[]No Known Issues
+[]Supports [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url]
+[/list]
+[b]Balance:[/b]
+Balance feedbacks are appreciated, suggestions will be considered as long as no C# is involved.
+[h1][url=https://discord.gg/rimworld]Click here to join us on the Community Discord![/url][/h1]
+[url=https://ko-fi.com/sierra0001][img]https://i.imgur.com/SBiUpbW.png[/img][/url]
+[h1]Credits:[/h1]
+[list]
+[]Ogliss for helping me fix red error spam associated with 0 commonality to ensure smooth(er) defName transition.
+[]SarahLambar for assistance in testing v1.12.
+[]Mascot inspired and based on Geneforge by Spiderweb Software (Go play the series, it's great).
+[/list]
+(CC BY-NC-ND 4.0)
+[h1]Troubleshooting & Bug Reports:[/h1]
+Join the Discord (link below) for troubleshooting and bug reports. Steam is a terrible platform for support and I will not be using it to deal with anything longer than a simple answer.
+[h1][url=https://discord.gg/rimworld][img]https://i.imgur.com/Y2Bdoia.gif[/img][/url][/h1]
+[h1]Latest Changes:[/h1]
+[b]v1.16[/b]
+[list]
+[][RimWorld 1.4] RimWorld 1.4 Ready.
+[][DEV] Updated all labels to vanilla standards.
+[]Added 2 new traits: Tidy/Messy.
+[/list]
+
+Vanilla Ideology Expanded - Splits and Schisms by Oskar Potocki, Taranchuk
+The goal of this mod is to add a new mechanic to make ideologies a bit more of a gameplay affecting challenge, as well as introduce a new form of threat that needs to be countered by the player once the colony is big enough.
+Ideologies, while docile and strong in small societies, often tend to divide larger societies. The more people there is, the more ideologies differ. This mod introduces an Ideological Schism, which is an event in which a new ideology emerges in some percent of your colonists. In a way, the new ideology is very much similar to what the base ideology is, except for one or two different memes.
+This will result in a player having two unique ideologies in one colony, both struggling to become dominant. Once one of the two ideologies completely vanishes, a new schism can occur.
+
+Vanilla Weapons Expanded - Tribal by Oskar Potocki
+Vanilla Weapons Expanded - Tribal is a new entry to Vanilla Weapons Expanded series aimed at introducing some new weapons New Tribe playing players can utilise for better defense capabilities. From light and heavy clubs, stone axes and throwing shards to slings and clay pots filled with chemfuel, tribal raids should become significantly more diverse now.
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+
+Vanilla Factions Expanded - Mechanoids by Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk, ISOREX
+One of the first mods I ever came up with, and one that took the longest to design, draw, code and deliver, Vanilla Factions Expanded - Mechanoids is a mod unlike any other. A group of talented modders came together to make sure this mod is not only full of new interesting content, but also provides something to make the game a bit more dynamic.
+We have improved on the Custom Settlement Generation code to provide you with semi-random spaceships that Mechanoids can use to wreak havoc on the planet’s surface. Thanks to a lot of cooperation from some of the most famous modders out there, we were able to provide you with not just a new faction, but a unique mechanic of Total War, which makes the faction stronger the more ships land on the planet. We were also able to give you a little Factorio love letter in the form of fully automated machines that produce various items in the game, automatically. Did I mention it’s all happening automatically?
+New buildable mechanoids can fill various roles around your colony, from cleaning and hauling to base defense. With supercomputers, you can now automate research, Autosowers and Autoharvesters on the other hand will allow you to begin your farming enterprise with no need for physical labor.
+New quests, new events, new starting scenario, a storyteller, it’s all waiting for you. Merry Christmas!
+
+VFME - Caravan Packs! by PlayIgel, Alastair, Kayedon, SalmonToastie, Xrushha
+Caravan Packs! is your simple solution to expanding your choice on what animals can be used in caravans! We added packs to every animal that made sense to us, from Core to over a dozen mods. Enjoy pack support for 23 animals from the base game and 50+ more from the mods below!
+Adds packs to Erin's Palamutes, Anima Animals, ReGrowth - Wasteland Animals, ReGrowth - Extinct Animals, Android Tiers, Vanilla Factions Expanded - Insectoids and Vikings, and Vanilla Animals Expanded Arid Shrubland, Australia, Boreal Forest, Cats and Dogs, Caves, Desert, Ice Sheet, Tropical Rainforest, and Tundra.
+Additionally, several animals from core and the above mods have new pack textures to better match our mod.
+Works best loaded after any mod that we support animals for. Will automatically ask to be there!
+
+[FSF] Filth Vanishes With Rain And Time by FrozenSnowFox
+Changes the base filth def so every type of filth washes away with rain/snow and disappears after 14-15 days.
+
+1-2-3 Personalities M1 by Hahkethomemah
+A WIP personality extension mod.
+This mod is develped further thanks to the community support. Special thanks are due to:
+- Bohdan Kim
+- finn
+- Mister Doge
+- Pastel Stuffie
+- all anononymous funders
+- Patreon supporters, whose ongoing help helps to plan ahead
+- EpicGuru, for discounts, advice and general help
+Translation credits:
+- Korean (courtesy of inbae)
+
+1-2-3 Personalities M2 by Hahkethomemah
+Second part of the Personalities series. This one is focused on simple, intuitive mechanics tailored around pawns acting in similar or different way.
+This mod is develped further thanks to the community support. Special thanks are due to:
+- Bohdan Kim
+- finn
+- Mister Doge
+- Pastel Stuffie
+- all anononymous funders
+- Patreon supporters, whose ongoing help helps to plan ahead
+
+Vanilla Factions Expanded - Empire by Oskar Potocki, xrushha, legodude17, Allie
+One thing I always wanted to do but never could bring myself to do is overhaul the Empire faction in the Royalty DLC. For such a mysterious, powerful entity in the political sphere of RimWorld, there is surprisingly little content around them. When I wanted to make a Royalty focused playthrough, I quickly realized it’s just a ‘normal playthrough’ with ‘royalty sprinkles’ - so not really what I wanted.
+So I did what I do best and sat down with my trusty google docs to design a complete overhaul to the Empire faction that will finally allow you to feel like a proper imperial nobility. From intrigues and art exhibitions, to hunting down deserters and protecting from the acts of terrorism, with this mod you can really make an Empire-centric playthrough and make a play for the Imperial throne.
+With new permits, structures, apparel, vassalage system, royal honors, Great Hierarchy and titles, this mod is a powerhouse for those wanting to roleplay as the Imperial family, but it will also work just as well for people who only want one or two nobles in their colony.
+For obvious reasons this mod requires Royalty DLC.
+
+Vanilla Weapons Expanded - Laser by Oskar Potocki
+Vanilla Weapons Expanded - Laser is an addition to one of the most popular mods of Vanilla Expanded collection - Vanilla Weapons Expanded, however it can be played without it. This mod adds a selection of ultratech weapons, with a small number of them craftable, whilst keeping the majority of them only obtainable from the enemy drops, world quests and traders. Laser weapons introduce a new projectile type - a laser beam that has a slight chance of setting the enemy on fire. These weapons have high armour piercing and are extremely effective in combat against armored enemies and mechanoids.
+Salvaged Laser weapons are obtainable by players using a new Salvage laser weapon recipe, which uses intellectual skill of pawns and allows them to look through advanced components to come up with a random laser weapon. Salvaged laser weapons are less accurate than their state-of-the-art ultratech counterparts, and are more prone to overheating.
+Laser weapons have a brand new warm-up mechanic making them perfect for defensive battles - the longer your pawn is stationary whilst firing, the faster the weapon can fire. Once it reaches maximum firing speed however, it can overheat, causing a small explosion with a chance of setting your pawn on fire.
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+
+Vanilla Factions Expanded - Pirates by Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi, legodude17
+One faction that always felt a little bit 'un-expanded' in vanilla RimWorld is the pirate faction. They feel more like evil outlanders than anything unique, and they don't really threaten late game colonies, nor do they provide engaging content in any way, shape or form. It always annoyed me that they are industrial tier only and don't even spawn with charge rifles anymore.
+Roolo, Smash Phil and I are launching a new pirate survival video game inspired by RimWorld on Kickstarter. It's called Cursed Crew if anyone would like to check it out. I figured that the best way to promote the game through the channels I know a lot about is to create a mod, ideally a factions expanded mod, expanding pirates. Of course there is no boats and sea-faring pirates in RimWorld, but there are space pirates, so let's expand them!
+Vanilla Factions Expanded - Pirates greatly expands the vanilla pirate faction by adding new events, technology, defense means etc. We are also adding two new factions - Junkers, which are inspired by the hordes of Huns, but instead of riding horses, they weld themselves inside powerful warcaskets; and Mercenaries, a spacer-tech faction of 'legal', sanctioned pirates that you can befriend!
+You can now use your Comms console to hire pirates too! Pirates you hire join you for a period of time, but they come with a hefty price.
+And most importantly, you can now create warcaskets - steel suits of industrial-tier armor, a powered-armor precursor, around your pawns. Fully customizable, with unique weapons and armor graphics!
+And with Ideology, you can enjoy a new Pirate meme, with singing sea shanties and much more important camaraderie!
+Do check out Cursed Crew, as if you liked RimWorld, I'm sure you will like our take on rogue-like survival, sailing the endless ocean and fighting dangerous, mythical creatures.
+
+Altered Carbon: Ultratech Unleashed by Helixien
+This module adds ultratech technology, predominantly from “Altered Carbon”, the popular Netflix show and book series by Richard K. Morgan, into Rimworld.
+
+Auto-Cut Blight by Razor 2.3
+Automatically designate blighted plants to be cut.
+
+Character Editor Retextured by Neronix17
+Simple retexture for the UI elements of Character Editor.
+
+Custom player icon by Ogam
+Allows you to set custom player icon.
+This mod use icons from Ideology DLC and any other mod to add more icons.
+You can add your own variants by putting png files into RimWorld\Mods\CustomPlayerIcon\Textures
+
+Custom Ritual Framework by these people
+Adds three attachable ritual outcomes and two new rituals. More importantly, provides a framework for creating custom rituals and outcomes.
+
+Dubs Performance Analyzer by Dubwise
+This is a tool to analyze the cpu usage of specific parts of the game to help players and modders with performance issues
+
+Fahrenheit and Celsius by Kosaro
+Displays both fahrenheit and celsius in the temperature display.
+
+Give Me Christian Values by Giant Monster Games
+Added a Christian meme and styles
+
+Level Up! by krafs
+Level up notifications!
+
+Vanilla Weapons Expanded - Makeshift by Oskar Potocki, SmashPhil
+Vanilla Weapons Expanded - Makeshift is a small module that fits perfectly with all the nutters playing Naked Brutality survival scenario, or roleplaying in a post-apocalyptic universe. Inspired directly by games like Rust and Fallout, as well as the improvised firearms of the Chechen rebels, these guns can be crafted without any machining tables or steel. All you need is to complete the Makeshift weapons research project, bring your components to a crafting spot and start mass producing these cheap, unreliable weapons.
+That’s right. Unreliable? What does it mean? It means that each weapon has a random amount of shots it can fire within a burst (with a minimum and maximum amount). A makeshift pistol can fire between 0 (!) and 1 shots, whilst a makeshift rifle can fire anywhere between 0 and 5 shots.
+You never know how many shots your burst will fire, or if it will fire at all, thus making these weapons non-ideal. Essentially, by crafting these, you allow Randy Random to mess with you one more time during every combat encounter. But hey, they are cheap, and they are makeshift!
+
+Music Expanded Framework by JME, Caaz, Odeum, Pphhyy the great, Zylle
+This mod overhauls how music functions in RimWorld! It ensures there's always a track playing and introduces cues for specific tracks to play.
+
+Muzzle Flash by Issac Zhuang
+add muzzule flash to the gun.
+
+Vanilla Weapons Expanded - Heavy Weapons by Oskar Potocki, Taranchuk
+What I think this game was missing from the usual combat encounters is a punch, a smell of freshly fired bolters, the heat of an autocannon barrel and the look of surprise on the enemy faces as 10 homing missiles decimate their ranks. Vanilla Weapons Expanded - Heavy is our response to that task: This mod adds incredibly heavy weapons that can only be equipped on a handful of pawns - be it power armored troopers, pawns with a Tough trait or soldiers wearing our new industrial tech exosuits.
+These weapons utilise the limited-use code, just like vanilla triple rocket launcher, except they can be fired more than once. After the weapon depletes, it breaks, which means you need to simply craft a new one. No ammo system, nothing like that!
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+
+Packs Are Not Belts by Turnovus
+Moves the jump pack, low-shield, and some modded packs to the torso slot so they can be worn with belts.
+Also moves the exoskeleton frame from VWE Heavy to its own layer, and some Rimmu-Nation items away from the torso, so they can still be worn with other utilities.
+
+PawnTargetFix by fed1sPlay
+Pawns now prefer to shoot at closest target. Pawns now change target automatically to closest foe more often.
+
+Simple Utilities: Wall by Owlchemist
+This started out as a fork and merging of the Better Vents and Better Coolers mod, utilizing the Vanilla Expanded Framework instead, along with more compatible definition patching methods. It has evolved to include new features such as a wall heater, wall lights, and fencepost lamps.
+Credit goes to Skullywag for the original vent and cooler graphics.
+
+Perspective: Buildings by Owlchemist
+This mod adds a gizmo to various buildings, allowing the player to adjust the building's placed offset. For example, you can nudge a building down a bit and tuck it behind a wall, giving it a better sense of perspective.
+
+Perspective: Eaves by Owlchemist
+Outdoor roofs are normally ignored by the sun shadow caster, causing the roof eaves along the outside of a building to render incorrectly. This mods corrects this behavior.
+
+Reinstall-able Altars by xrushha
+Requires the Ideology expansion for RimWorld. Adds the ability to reinstall small and medium altars because why not?!
+
+Retextured Apparel by Tenthwit
+Higher resolution textures for base game apparel.
+Includes:
+- body and face textures
+- bowler hat, cowboy hat, tuque
+- duster, jacket, parka
+- t-shirt, button-down shirt
+- tribalwear
+- flak helmet, simple helmet
+- flak jacket, flak vest
+
+Retextured Sculptures by Tenthwit
+Higher resolution textures for all 18 base game sculptures.
+
+Stop, Drop, And Roll! [BAL] by balistafreak
+[h1]Changelog[/h1]
+20 July 2022: Mod recompiled to work with 1.4.
+5 July 2021: Mod marked as compatible with 1.3. Mod appears to function with zero changes necessary, but please report any errors you encounter ASAP!
+28 Jan 2021: Simplified and Traditional Chinese translations added, courtesy of [url=https://steamcommunity.com/profiles/76561198412879575]Zephyr[/url] and [url=https://steamcommunity.com/id/leafzxg]leafzxg[/url]!
+15 Jan 2021: Mod launched!
+[h1]What this mod does[/h1]
+Sick and tired of having your carefully designed defenses for your pawns completely thrown into chaos by a single raider with a molotov cocktail? Groaning in frustration when one hit from an inferno cannon, a hit that does exactly zero damage to your legendary-armored pawns, causes them to run [b]TOWARDS[/b] the line of approaching Centipedes just because there's a one-tile puddle of water out in the open?
+Teach your pawns to Stop, Drop, and Roll! This mod replaces the default "panic from fire" behavior of your colonists with a more intelligent one: the pawn stops whatever they're currently doing [b]NOT[/b] to run around uselessly or towards water, but to focus on extinguishing themselves on the spot. If you feel like fire is too effective of a weapon against your foes, you can optionally enable this behavior on non-colonist pawns and even animals; or, if you want to rely solely on the second system introduced by this mod, that of "IgnitionChance", you can disable this behavior on your own pawns as well.
+Additionally, apparel and its Heat Armor now assist with fire prevention. Heat Armor above a certain threshold on apparel is used to calculate a new value called "IgnitionChance", which serves to reduce the chance a pawn would be set on fire. By default, all pawns (including enemies) and animals benefit from this new system, but if you're feeling sadistic, you can disable this for enemies and/or animals. You can also disable it for your own colonists, if you'd rather rely solely on the "stop, drop, and roll" mechanic� and if you're feeling masochistic, you can disable the IgnitionChance system for just your own colonists while keeping it active for non-colonists and animals. Everything is modifiable and customizable in the mod options window!
+[h1]Hard numbers[/h1]
+Rimworld's code uses a single method to set pawns on fire. Whenever this method is used, this mod patches it to first be checked by a series of calculations similar to (but not identical to) how attacks are resolved against armor.
+The mod starts with two predefined but user-modifiable values: "Ignition resistance strength" (IRS) and "Minimum heat armor rating to resist ignition" (MHA). By default, these are "4" and "0.25", respectively.
+The first step when the game code attempts to set a pawn on fire is that a outside-depth body part (aka, not an internal organ such as the heart or brain, but possibly an outside-depth sub-part such as eyes, nose, or jaw) is randomly selected, using the exact same process as how regular attacks select a body part. (Because the base game is dumb and doesn't protect hands and feet by default, hands and feet have been excluded from this roll.)
+Next, all layers of apparel covering that body part are checked from outermost to innermost. Each layer of apparel has a calculated "IgnitionChance" that equals 100% - IRS(Heat Armor of Apparel - MHA).
+A random roll between 0 and 100 is now made and compared to IgnitionChance. If the roll is greater than ignition chance, that layer of apparel has resisted ignition and the pawn is not set on fire. If the roll is less than or equal to IgnitionChance, then that layer of apparel has failed to prevent the pawn from catching on fire, and the process moves to the next layer of apparel. If there are no layers of apparel remaining (or none to begin with), the pawn catches fire as normal.
+With the default values of 4 and 0.25 for IRS and MHA, this means that any value of Heat Armor on apparel less than 25% does not contribute to reducing IgnitionChance, while every percent of Heat Armor above 25% reduces IgnitionChance's base chance of 100% by 4%. A piece of apparel with 26% Heat Armor has a 96% IgnitionChance, while one with 49% Heat Armor has a 4% IgnitionChance. For reference, all base game apparel made of Devilstrand easily reaches >50% Heat Armor at normal quality, making it a completely "fireproof" layer. Marine armor is in a similar position, having 54% Heat Armor at normal quality. Note that while hands and feet have been excluded, the head and the face are their own body parts! An open-faced helmet risks your pawn being set on fire still on an unlucky roll to determine body part, and you will need a Marine helmet or equivalent in conjunction with clothing to fully fireproof your pawns.
+Depending on the way apparel attributes are balanced in your mod-list, the default values of 4 and 0.25 for IRS and MHA may not be appropriate. If your mod-list's point of balance is very different from that of the base game, and you're rolling with extremely powerful armor, or perhaps focusing on a low-tech playthrough, raising or lowering these values may be required.
+Note that IgnitionChance is an entirely separate process from direct weapon damage, which uses Heat Armor as normal. Even if a pawn's body parts are all covered in apparel with 0% IgnitionChance, direct hits from incendiary weapons will still attempt to deal direct damage as normal, opposed by Heat Armor.
+I don't even want to think about CE compatibility. You guys are on your own.
+[h1]How will this mod affect my gameplay?[/h1]
+With the default settings, fire becomes way less of an instant "I lose" problem for your own colony, while also becoming somewhat less of an instant "I win" button to use against certain enemies. Although non-colonists (aka enemy pawns) do not use the "stop, drop, and roll" behavior, they do still benefit from the IgnitionChance system. Most tribal attire will still be well below the (default) MHA needed to decrease IgnitionChance, so you can still have your war crimes against the indigenous peoples of your rimworld, but pirates and outlanders in power armor may be sufficiently geared to shrug off incendiary assault.
+[h1]Tested With[/h1]
+Mod order seems to be irrelevant as long as it comes after Harmony and Core+Royalty.
+Stop, Drop, and Roll! was not tested for compatibility with others mods altering other pawn behaviors. You have been warned.
+[h1]About and Acknowledgments[/h1]
+Please let me know in the comments section if you encounter any problems with this mod. I have little experience with game modding and this mod's C# was coded entirely by the illustrious so any comments, feedback, and/or coding/implementation pointers are greatly appreciated.
+If you would like to show your support, please consider donating to my [url=https://ko-fi.com/balistafreak0436]Ko-fi page[/url]. Every penny I receive means I can spend less time on other work and more time on realizing mod ideas such as this one.
+If you're a fellow Rimworld modder, please do your part for inter-mod soft compatibility by making your mod's buildings Stuffable, as opposed to requiring exactly Steel or WoodLogs.
+[h1]A very big thanks to:[/h1]
+Taranchuk. He is extremely knowledgeable of Rimworld's C# inner workings, and was able to understand my vague, bumbling instructions and descriptions almost flawlessly to create an end-product that did nearly everything I wanted it to, and more than everything I needed it to.
+[url=https://ko-fi.com/balistafreak0436][img]https://i.imgur.com/THBzOXr.png[/img][/url]
+[url=https://discord.gg/7B7xqHh][img]https://i.imgur.com/cfoFEMA.png[/img][/url]
+
+Steamworld Uniforms by Koni
+Steamworld Uniforms is a historically inspired mod that aims to add various uniform parts from the early industrial/Victorian era.
+
+Thrones For All by these people
+Thrones can be assigned to anyone and they will use it for meditation. As a bonus, if you have Ideology installed, Leaders can give their Leader speeches from the throne.
+
+TraderGen by José Ángel Soler Ortiz
+TraderGen is a mod focused on improving trader variety and mod compatibility. Every trader will feel different and unique!
+Orbital trader specializations: Orbital traders get a random specialization. In addition to their normal stock, they will have extra items fitting their specialization. Some of these specializations carry rare or useful items! Keep an eye out for them.
+Orbital ship names: Orbital ships gets an improved range of randomly generated names. Each different type has their own selection, so you will see more fitting names as well.
+Ideology support: With the Ideology DLC, traders will expand their stock depending on the ideoligion they follow. For example, Tunnelers will sell insect meat and raw fungus, while Transhumanists will have bionics in stock. Ideologies against cannibalism will refuse to purchase human meat, while those with Tree connection will never commerce with wood. More than 50 precepts from Vanilla and multiple Ideology mods are supported!
+Mod compatibility: TraderGen features extensive mod compatibility, with a growing selection of mods having additional effects on trader stock.
+Customization: You can tweak TraderGen to your liking; every feature can be tweaked, enabled or disabled in the mod settings.
+You can find a detailed description of specializations, ideology features, trader tweaks and mod compatibility features in the project website.
+
+Ugh You Got Me by MarvinKosh
+Pawns will stop social fighting if they're badly hurt or in a lot of pain.
+Masochists ignore pain when social fighting.
+Bloodlusties will not stop social fighting until either their opponent gives in, dies, or is downed.
+Pawns who are romantically involved have a chance to stop social fighting if one has a positive opinion of the other.
+[Version 1.0.7]
+
+Ushankas Glitterworld Uprising by Ushanka
+You look high over the heads of your friends and acquaintances. You stare at the blue, tinted sky and see a little spark blinking from nothingness. Is it a memory? A dream, or a destination? Or is it… Glitterworld?
+Glitterworld Uprising adds 11 new machines, 2 resources, and 7 items, each with unique abilities. If you enjoy diving into a dangerous world build upon ultra technology, corruption, and desire for perfection, then this mod is for you.
+
+Ushankas Luciferium Expansion by Ushanka
+Luciferium Expansion adds 10 new machines, 6 drugs, 2 resources, and a scarlet sludge network. It allows the player to produce Luciferium and some decent profits with a drug called lifter. It also adds some emergency combat strategies and an interesting way to dispose useless colonists...
+
+Vanilla Furniture Expanded - Medical Module by OskarPotocki, Atlas, Kikohi
+Vanilla Furniture Expanded - Medical module adds several new pieces of furniture to allow players for higher variety of medical beds and linkables. Sterile walls have also been added with color-coded line markings, allowing users to color-code the rooms.
+
+Vanilla Furniture Expanded - Spacer Module by OskarPotocki, Atlas, Kikohi
+Vanilla Furniture Expanded - Spacer module adds several new pieces of furniture to allow players to witness better technological progress in regards to comfort and utility furniture. Repair shelves, Biolab sunlamps and reinforced walls will spice your colony up, whilst illuminated dressers and end tables as well as advanced beds will provide your pawns with highest possible comfort silver can buy.
+
+Vanilla Plants Expanded - Succulents by Oskar Potocki, Alestria
+Vanilla Plants Expanded - Succulents is an optional module for Vanilla Plants Expanded adding a variety of decorative plants, ideal to make your bases, houses, workstations and hospitals much prettier without having to maintain the flowerbeds. Succulents might provide only half of the beauty that flowers normally do, but their lifespan is three times as long, meaning your colonists won’t be forever busy with replacing flowers every few days.
+Succulents are inspired by real life succulents I have around my house, but for the purpose of the gameplay they have been unified stat-wise and simplified.
+This mod has been made by me and my girlfriend so you better watch your words! No one dare declare their love to me this time.
+I hope you will enjoy the mod, don’t hesitate to let me know what you think!
+
+Vanilla Races Expanded - Genie by Oskar Potocki, Sarg Bjornson
+Vanilla Races Expanded is a brand new series of mods to enhance Biotech features, add to the storytelling and the world-building of RimWorld, and to introduce new, cool types ofxenohumans, complete with their own unique genes, behaviors, mechanics and items.
+This mod expands on a xenotype of Genies with brand new genes that are aimed at making this xenotype feel more rewarding to play with, but also adding a new layer of difficulty. Because of that, this might not be a mod for everyone.
+Designed to be engineers, genies’ delicate bones and natural aptitude with machines allow them to manipulate devices with remarkable precision. They are emotionally cold and can follow orders where others might panic. However, they are fragile, and their amplified nerve impulses make them easy to debilitate with relatively little pain. With so much of their brains dedicated to analyzing machines, they lack the neural hardware to analyze emotions, so they sometimes come off as socially inept. Their dead calm makes it even harder for them to relate to what they see as madly-hotheaded baseliner humans.
+Genies were engineered thousands of years ago by a long-disbanded space navy to hold engineering positions on large starships. Today, genies still serve as engineers in great cities and fleets, but many can also be found working as lawyers, pilots, and musicians.
+
+Vanilla Races Expanded - Hussar by Oskar Potocki, xrushha, Taranchuk, Sarg
+Vanilla Races Expanded is a brand new series of mods to enhance Biotech features, add to the storytelling and the world-building of RimWorld, and to introduce new, cool types ofxenohumans, complete with their own unique genes, behaviors, mechanics and items.
+This mod expands on a xenotype of Hussars with brand new genes that are aimed at making this xenotype feel more fleshed out, rather than just 'good combat pawns'. It also adds a brand new xenotype of Uhlans, rare and strong soldiers fueled with luciferium.
+Uhlans are a side-development from captured hussars, turned by certain elements to become a counter to the military-developed supersoldier programs. Their genetic dependence on luciferium is both a deterrent against capturing and an improvement to long-term usefulness.
+Appropriately named demons for their permanently flushed skin and intense bloodthirst, uhlans are incredibly resilient and specialized in certain styles of combat. Quite often they are decked out in heavy armor, in which they can charge full tilt at their intended target.
+Extremely specialized and on a permanent hair-trigger, there has been much speculation that their development was sponsored by megacorporations as part of the latest arms race. No substantial evidence has been presented to support these claims.
+
+Vanilla Races Expanded - Saurid by Oskar Potocki, Neronix17
+Vanilla Races Expanded is a brand new series of mods to enhance Biotech features, add to the storytelling and the world-building of RimWorld, and to introduce new, cool types ofxenohumans, complete with their own unique genes, behaviors, mechanics and items.
+This mod adds a new race called Saurids, featuring xenohumans with lizard characteristics. A number of new genes will allow players to turn their pawns into cold-blooded scaly monstrosities, whilst a new Saurid faction will be added alongside the Outlander factions and will provide a steady supply of Saurids for the players that desire it.
+Genetically spliced with synthesized dinosaur genetic material for improved compatibility with arid environments, saurids are cold-blooded isolationists with harsh voices and extremely low metabolisms. Their sharp claws and hardened scales make them particularly suited to melee encounters.
+For workers looking for higher-wage jobs, saurid xenogerms are offered alongside employment packages to particularly arid and hot planets. As conditions are quite harsh, they experience an attitude shift to be less social and consume fewer calories which allows them to be more profitable. As they are not excluded from starting families, saurids can communicate with each other using pheromones and are oviparous to reduce medical complications caused by lack of proper social infrastructure.
+
+Vanilla Spacer weapons - Beam Gun by Halituis Amaricanous
+Mod Adds Several new Beam Laser guns to the Spacer factions and trade inventories.
+Beam weapons are useful weapons harnessed by the outer world factions and developed their own form of concentrated laser-type technology to focus on single targets more than the group of targets more common guns are known for, being able to slow, debuff and singe out more difficult targets, beam weapons are particularly useful for much more single armored targets or those with a natural in-born armor and shield capacity threshold.
+Beam weapons come in a variety of flavors, and deliver a concentrated punch of energy after a long initial warmup time. Thankfully beam weapons do not need to be cooled down once they start firing. Beam weapons target a 1x1 cell for damage which slowly builds up in amplitude the longer the shot connects with its target, making beam weapons some of the most dangerous guns you could acquire given patience. And a well focused squad that knows well to allocate target designation.
+The weapons can only be found as quest rewards, on trader caravans, and Spacer factions such as the imperials of the royalty DLC, or any custom spacer factions you might have installed.
+
+Vanilla Spacer weapons - Bounce Gun by Halituis Amaricanous, Sl4vP0wer
+Mod Adds Several new Powerful Ricochet bounce guns to the Spacer factions and trade inventories.
+Repulse guns Are special made spacer tech weapons that fires projectiles that bounce from target to target in an attempt to hit as many opponents as possible, Higher skilled shooters will find the weapons to Ricochet more often allowing for more powerful strikes per volley,
+The weapons can only be found as quest rewards, on trader caravans, and Spacer factions such as the imperials of the royalty DLC, or any custom spacer factions you might have installed.
+
+Vanilla Spacer weapons - Explosive Bolt by Halituis Amaricanous
+Mod Adds Several new Explosive bolt guns to the Spacer factions and trade inventories.
+Apart from all the weapons being explosive in some capacity these specialized explosive bolt weapons fires special detonating rounds that shred enemy armor allowing other team members to get a more empowered shot on your armored foes.
+the guns having a more specialized roll of being more suited to splash damage as every shot from these weapons can damage at least twice in a single shot up to multiple.
+
+Vanilla Weapons Expanded - Coilguns by Oskar Potocki, AveryTheKitty, Taranchuk
+Vanilla Weapons Expanded - Coilguns is an addition to one of the most popular mods of Vanilla Expanded collection - Vanilla Weapons Expanded, however it can be played without it. This mod adds a selection of spacer-tech weapons, fully craftable upon researching mass drivers technology. Coilguns come with a unique gimmick - whilst their firing speed and aiming time are quite unforgiving, projectiles fires from these weapons pierce any target they hit - flesh or metal, as well as any obstacles. Each obstacle reduces damage dealt to the next unlucky object/creature, but effectively these weapons allow your colonists to score multi-kills with a single shot.
+Shots fired by these weapons cannot penetrate mountains or reinforced walls from Vanilla Furniture Expanded - Spacer.
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+
+Vanilla Weapons Expanded - Grenades by Oskar Potocki
+With a brand new utility item code introduced in RimWorld 1.2 update, I saw it as a perfect fit to make grenades be actually useful instead of forcing you to choose between a grenade and a rifle. By crafting grenade belts, you can now equip all vanilla and vanilla expanded grenade types on your pawn alongside any weapon you wish, and use them manually by selecting a special “throw grenade” button on the menu, next to the draft button.
+You heard it right, now you can launch grenades and continue to fire your assault carbine at your enemies! No need to call out that single useless colonist that always carries just grenades.
+What’s the drawback? Grenades on the belt are limited, much like the ammo for the Grenadier suit in Royalty DLC, you now need to refill the grenades after the charges deplete. You refill them using the grenade type they are made out of - Frag grenade belt gets refilled with frag grenades etc.
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days. This mod has built in support for other Vanilla Expanded grenades - VWE smoke, flash and gas grenades as well as dynamite from VFE - Settlers!
+
+Wall Vitals Monitor by zzz
+Can install directly on wall.
+Require Vitals Monitor research.
+
+[KYD] Cover Your Nose! by Kayedon
+A simple patch to add the nose to the "Teeth" category of covered bodyparts, to make some modded apparel make more sense and reduce the chance of your nose constantly getting shot off!
+
+Advanced Toxifier Generator by ThatBartGuy
+I do love pollution.
+
+Bed Rest For Food Poisoning by 1trickPonyta
+If you're constantly vomitting and can barely move, would you go hunting? No, you would rest in bed. Now your colonists can too.
+This mod makes pawns consider food poisoning (initial and major phases) to be an affliction worthy of bed rest (as prioritized in the work tab).
+This means you won't have to find Horton on the other side of the map hauling the rat meat from the sky while she can barely move, stopping every five seconds to vomit before dropping the rat meat and trying to get to the freezer to satisfy her empty food bar only to go slaughterer before she even makes it back into the base, killing your bonded yorkie and then collapsing on the ground in pain shock.
+=== Updates ===
+10/26/2022: Updated to 1.4
+
+Better ground-penetrating scanner by Kikohi
+Allow to choose for wich resource to scan. Also add an automatic scanning mode, slower than normal scanning.
+
+Better Children Skill Learning by RedMattis
+This mod increases the learning speed of children without passion in the given skill to 1.0 instead of 0.35.
+Children with a Passion will learn twice as fast as an adult with a passion.
+These changes are intended to make up for the fact that you can often get rescue/recruit/enslave adult pawns with skills above 10 with far less investment. This change should make children a more competetive option.
+
+Better Pyromania by Aelanna
+A small overhaul mod for the Pyromaniac trait.
+
+Chemical Barrels by Vent
+Allows you to store chemfuel and toxic waste in barrels. These barrels will not decay on their own, however they may explode if damaged, spreading pollution or fire. You can deconstruct these barrels to retrieve the contents stored inside.
+
+Combat Readiness Check (Continued) by MarvinKosh
+[img]https://i.imgur.com/buuPQel.png[/img]
+Update of MarvinKoshs mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1542424263
+with permission.
+- Update work by Craze
+- Added option to treat pre-industrial armors the same as pre-industrial weapons
+[img]https://i.imgur.com/pufA0kM.png[/img]
+[table]
+[tr]
+[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+[td][url=https://github.com/emipa606/CombatReadinessCheck][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+[/tr]
+[tr]
+[td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+[td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+[/tr]
+[/table]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+Alters the normal threat points calculation.
+Threat points are used by the storyteller to, for example, 'buy' raiders from a list to make up the next group that will raid your colony or ambush one of your caravans.
+You can use the in-game Mod Settings menu to adjust some of the settings for how points are generated. Select Combat Readiness Check, and edit the values. They will stay in effect as long as you're using the same saved game folder.
+A debug option is available in the mod settings menu. This will output the current armoury points and building points to the log. Colonist points are also logged, but only if you turn on Write Storyteller in development mode.
+[h3]Wealth calculation[/h3]
+[list]
+[] Wealth from weapons and armour counts at market value. Armour is anything which offers better than 29% protection against bullets or arrows.
+[] Wealth from pre-industrial weapons counts at 25% of market value.
+[] Wealth from other items is not counted (vanilla: all items are counted at market value, converted into points by wealth curve)
+[] The combined weapons and armour wealth is converted into points by the Combat Readiness wealth curve.
+[] Wealth from buildings is counted at 25% of value and converted into points by the Combat Readiness wealth curve (vanilla: 50% of value, vanilla wealth curve).
+[/list]
+[h3]Animals[/h3]
+Animals which have release training count for 9% of their combat strength (vanilla: similar percentage, but all animals that could be trained, even if they aren't trained).
+[h3]Colonist calculation[/h3]
+[list]
+[] Colonists by default count for 45 points (vanilla: starts at 40 points and increases to 110 depending on colony wealth)
+[] Colonists who have impairment to their combat abilities (consciousness, manipulation, sight) will count for less points.
+[] Colonists with limited movement capability or a limited combined combat ability will count for zero points.
+[] Colonists in cryptosleep will count for zero points.
+[] Colonists who can't fight at all will count for zero points.
+[] Colonists who are suffering from an infection or disease which needs bed rest will count for zero points if they haven't developed immunity.
+[] Colonists who have enhanced capabilities (from bionics, trauma savant, mechanites or drugs) can count slightly more.
+[/list]
+The current adaptation factor affects the final colonist points value (vanilla: adaptation multiplies everything just like difficulty).
+[h3]Processing points[/h3]
+The combined points are then processed by the Combat Readiness points curve (vanilla: no points curve).
+After that the points are multiplied by the modifier for difficulty level (vanilla: same).
+There is a global maximum of 10000 points or 20000 for Merciless difficulty (vanilla: 20000).
+[h3]Extra features[/h3]
+[list]
+[]Includes 'Adaptation and Random Threat Point Multipliers Cap to One' which changes the adaptation and random raid factors so that they cap at 1, reducing the effect of those factors.
+[]Added buttons to change between a few default settings - Fair, This is fine, Feels bad man, Pain train.
+[]Extended the max range of possible adjustment to 800% for percentage settings.
+[/list]
+[h3]Current version: 1.2.0[/h3]
+[b]Please ask me before re-uploading this mod.[/b]
+[h2]Don't comment asking when the mod will update.[/h2]
+Comments regarding mod updates have become a nuisance. I can understand that people get excited and post before they think or read, but I have [url=https://twitter.com/marvinkosh]social media[/url], go and check there to see if I have posted about RimWorld. You will be saving me a lot of time.
+[h3]Navigation[/h3]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1518256398]Go to the Beta 19 version.[/url]
+Go to Ludeon Forums for more information and direct download links: https://ludeon.com/forums/index.php?topic=30508.0
+If you like this mod, why not consider looking at some of my [url=http://steamcommunity.com/id/marvinkosh/myworkshopfiles/?appid=294100]other mods[/url]?
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[] See if the the error persists if you just have this mod and its requirements active.
+[] If not, try adding your other mods until it happens again.
+[] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[] For best support, please use the Discord-channel for error-reporting.
+[] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2314304057]Last updated 2023-01-11[/url]
+
+Ding On Game Loaded by Mlie
+[img]https://i.imgur.com/buuPQel.png[/img]
+When the game have loaded up to the main-menu a Ding is heard.
+The sound can be changed by replacing the audio-file in the Sounds Directory.
+For those with long mod-lists who might do something else while the game loads.
+Added options for making different sounds if there were warnings or errors during loading.
+Known issue: If the option "Run in background" is turned off and the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1999454301]BetterLoading[/url] is active the sound will be a bit early. This is because that mod adds a few steps after the vanilla loading is complete and since the main-menu is not generated if the background-option is turned off and the game is minimized the sound will play at stage 10 of the loading.
+Idea by: Rasutei
+[table]
+[tr]
+[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+[td][url=https://github.com/emipa606/DingOnGameLoaded][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+[/tr]
+[tr]
+[td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+[td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+[/tr]
+[/table]
+[img]https://i.imgur.com/O0IIlYj.png[/img]
+Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my [url=https://store.steampowered.com/wishlist/id/Mlie]Wishlist[/url] or buy me a cup of tea.
+[url=https://ko-fi.com/G2G55DDYD][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[] See if the the error persists if you just have this mod and its requirements active.
+[] If not, try adding your other mods until it happens again.
+[] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[] For best support, please use the Discord-channel for error-reporting.
+[] Do not report errors by making a discussion-thread, I get no notification of that.
+[] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2425530959]Last updated 2023-02-17[/url]
+
+Do Something for Idle by gguake
+This mod makes colonists do something when they are idle: anything from taking a break time to cleaning their gun.
+
+Infestations Spawn in Darkness by Murmur
+Infestations will only spawn in the dark. Does not apply to deep drill infestation attacks.
+
+In-wall coolers and vents by Hanabishi
+Do you hate when raiders easily break into your rooms via coolers? This mod is for you! With this mod coolers and vents can be built on top of the walls. So after a cooler destruction the wall remain still.
+[Installation] Compatible with existing saves. Just place additional walls in coolers and vents positions to stop the air get through.
+[Uninstallation] All coolers and vents placed on top of the walls will be disassembled into components.
+
+Line Of Sight Fix by Andreas Pardeike
+This mod fixes the aiming towards pawns where vanilla targets cells around that pawn but the shot actually goes to the position of the pawn.
+
+ProxyHeat by LoggerC4, Taranchuk
+This will allow temperature sources to warm you up or cool you down regardless of if they’re in an enclosed room or not. In the real world, you don’t need to have an enclosed space in order to cozy up around a campfire a little and prevent hypothermia.
+
+Prisoners Should Fear Turrets by Mlie
+[img]https://i.imgur.com/buuPQel.png[/img]
+Escaping prisoners will now get fired upon by turrets.
+In 1.3 rebelling slaves will also be shot, selectable in the options.
+There is also an option for shooting at slaves/prisoners in any aggro mental-state
+Turrets can also give terror to slaves to keep supression levels.
+[table]
+[tr]
+[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+[td][url=https://github.com/emipa606/PrisonersShouldFearTurrets][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+[/tr]
+[tr]
+[td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+[td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+[/tr]
+[/table]
+[img]https://i.imgur.com/O0IIlYj.png[/img]
+Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my [url=https://store.steampowered.com/wishlist/id/Mlie]Wishlist[/url] or buy me a cup of tea.
+[url=https://ko-fi.com/G2G55DDYD][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[] See if the the error persists if you just have this mod and its requirements active.
+[] If not, try adding your other mods until it happens again.
+[] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[] For best support, please use the Discord-channel for error-reporting.
+[] Do not report errors by making a discussion-thread, I get no notification of that.
+[] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2602436826]Last updated 2023-02-17[/url]
+
+Power Tools by Simmin
+This mod adds some power tools.
+
+Recipe icons (Continued) by AUTOMATIC
+[img]https://i.imgur.com/buuPQel.png[/img]
+Update of AUTOMATICs mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1616643195
+[img]https://i.imgur.com/pufA0kM.png[/img]
+[table]
+[tr]
+[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+[td][url=https://github.com/emipa606/RecipeIcons][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+[/tr]
+[tr]
+[td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+[td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+[/tr]
+[/table]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[h1]1.1 ABOUT[/h1]
+For 1.1, this mod adds:
+- tooltips with recipe information
+- icons in thing filters
+- icons for some surgery icons
+- support for complex items with Cutout shader. See the picture for reference. Note: boxes for body parts are from my other mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980]Bionic icons[/url].
+[h1]1.0 ABOUT[/h1]
+Adds icons for various menus in the game, including "Add Bill". Supports other mods out of the box.
+Clicking on the icon will show information dialog for related item (previously, you'd click on the (i) icon for that).
+Safe to add and remove from save games.
+[h1]SOURCE CODE[/h1]
+https://github.com/AUTOMATIC1111/RecipeIcons
+Includes binaries: you can download the mod from github instead of workshop.
+[h1]UPDATES[/h1]
+16-Jul-2021
+- 1.3
+12-Aug-20
+- 1.2 update
+- Russian translation by Seos
+29-Mar-20
+- added recipe tooltip
+22-Mar-20
+- 1.1 update
+1-Mar-19
+- added support for growing menu, as well as for colored icons.
+2-Mar-19
+- added support for health tab operation menu.
+17-Mar-19
+- made icons a bit larger
+- added support for icons with ShaderCutout
+24-Mar-19
+- fixed buggy display for plant icons
+11-Sep-20
+- fixed a bug drawing item tooltip (can be seen when using CE)
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[] See if the the error persists if you just have this mod and its requirements active.
+[] If not, try adding your other mods until it happens again.
+[] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[] For best support, please use the Discord-channel for error-reporting.
+[] Do not report errors by making a discussion-thread, I get no notification of that.
+[] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2904906618]Last updated 2022-12-25[/url]
+
+ResearchPowl by VinaLx, Owlchemist
+A fork of "ResearchPal - Forked". Double-forked, you might say? This started out as a simple 1.4 update but has evolved into a number of changes, such as optimizations, minor bug fixes and tweaks.
+
+Simple FX: Vapor by Owlchemist
+A graphical mod which adds particle effects to freezing rooms, such as walk-in-freezers, to give a visual indication of its frigid temperature.
+
+Simple FX: Smoke by Owlchemist, Mlie
+A graphical mod which adds particle effects to various buildings, such as the campfire and stoves.
+
+Simple sidearms by PeteTimesSix
+With the invention of pockets comes the idea of bringing EVEN MORE WEAPONS. Because your snipers are getting really tired of getting shanked.
+See forum thread for details.
+https://ludeon.com/forums/index.php?topic=32497.0
+
+Skin Tight Recon by Jayrizzel06
+A simple mod which makes recon armor "skin tight" so that outer apparels can be worn over them. Very fashionable!
+
+Slave Rebellions Improved by busted_bunny
+Overhaul of slave rebellions. Completely overwrites the way rebellions get generated.
+
+Trait and Backstory Icons by Superniquito
+This mod adds icons to traits and backstories on the pawn bio tab.
+Also makes capitalization of trait labels of mods consistent with vanilla (all lower-case except the first letter).
+Backstory icons are based on: Meditation Focus (A tree) -> Forced Traits (Same as trait) -> Is part of a solid bio (Marked as a single star) -> Culture Tags (using the ideology culture icons)
+Also makes[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2258431182] What's That Mod[/url] Apply to traits too if it is active.
+Contains icons for:
+[65/65] Vanilla
+[2/2] Biotech
+[53/53] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2296404655]Vanilla Traits Expanded[/url]
+[7/7] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2634423596][LCK] Add-On for Vanilla Traits Expanded[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2636329500]Vanilla Ideology Expanded - Memes and Structures[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1914064942]Vanilla Fishing Expanded[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2842502659]Vanilla Psycasts Expanded[/url]
+[2/2] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2723801948]Vanilla Factions Expanded - Pirates[/url]
+[15/15] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1497105115][SYR] Individuality[/url]
+[44/44] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1507384362][KV] Consolidated Traits[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2879753009][LC] Consolidated Traits[/url]
+[30/30] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2600986277][DN] Bundle Of Traits[/url]
+[46/46] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]
+[2/2] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=839005762]Humanoid Alien Races[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2349467636]Anthromorphs[/url]
+[2/2] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2196278117]Ultratech: Altered Carbon Remastered[/url]
+[4/4] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=836308268]Dubs Bad Hygiene[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2570319432]Dubs Bad Hygiene Lite[/url]
+[3/3] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1631756268]Combat Extended[/url]
+[9/9] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2585218174]RPG Traits+ [1.3-1.4][/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1786466855]Pawnmorpher[/url]
+[2/2] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url]
+[2/2] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2748222814]Cleaning Speed[/url]
+[2/2] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2311299987]Supreme Melee (Continued)[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2661356814]Alpha Memes[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1803932954]More Than Capable[/url]
+[3/3] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2884586228]Sanguophage Feed Relationship[/url]
+[3/3] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2877731755]Way Better Romance[/url]
+[3/3] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2106011986]Eternal Youth Traits[/url]
+[2/2] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502]Alpha Genes[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1985186461]Reunion[/url]
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2973169158]Alpha Mechs[/url]
+[1/1] Any mod that adds a trait named "Straight" like [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2589673154]Sexuality Traits[/url]
+[1/1] Any mod that adds a trait named "Misanthrope" like [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414][O21] Tweaks Galore[/url]
+Contributions by 1Sopel6#6852:
+[1/1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2596883852]Green Thumb Revived[/url]
+[11/11] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1777036482]Moloy Traits[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566452140]Moloy Traits (Continued)[/url]
+[7/7] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1696777453]NilchEi Personality Traits[/url]
+[4/4] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2697479617]Zeal Traits[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2877068702]Zeal Traits Simple[/url]
+[4 replacements] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2600986277][DN] Bundle Of Traits[/url]
+[9 replacements] Rimworld
+[14 replacements] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2296404655]Vanilla Traits Expanded[/url]
+Mods with a single icon for all their traits:
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1201382956]A RimWorld of Magic[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2514986353]Dreamer's Dreams[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1916352291]RimTraits - Medieval Talents[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1209071221]Fallout Traits[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2917948202]Android Tiers Reforged[/url]
+Mods that have added their own support:
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2349465544][MLP] My Little RimPony[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2924276369]GunKata: Battle Traits[/url]
+[10/10] As a fall-back, if the mod is not supported by it's own icons [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url] (Recomended over alternatives) or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colors[/url] will be used to assign an icon instead. You may disable this feature by removing the "syrchalis.traitvalue" and "sierra.rt.vanillatraitcolors" folders.
+Notes for modders:
+Other mods can add their own by putting the icons on the "Textures\UI\TraitIcons[packageId of mod the trait is from]" path as they would any other texture, with the name equal to the name that appears on the log (the untraslated display name of the trait but in all lower-case except the first letter, which must be capitalized). (If the trait is a degree of another mod's trait, or you are renaming another mod's trait, place it under that mod's package id)
+If a trait does not have an icon, it will try to use the icon named "Default" on the source mod's folder.
+If [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url] is active, any mod without icons that has Trait Value support will use the icon named after its category: "Best trait", "Very good trait", "Good trait", "Neutral trait", "Bad trait", "Very bad trait", "Worst trait"; prioritizing any instance in the folder corresponding to the source mod packageId.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colors[/url] has similar support: the name is the hex color used in the label.
+Other mods that change trait colors like "Trait Rarity Colors" will be compatible but will not have their own icons.
+Any mod with a "Default" icon will use it for all of their icons which do not have their own, this allows for one icon to represent the whole mod, this is used for the traits of some of them.
+Used icons from [url=https://game-icons.net]game-icons.net[/url], with some modifications.
+Support me here -> [url=https://ko-fi.com/superniqui10]Ko-fi[/url]
+[url=https://ko-fi.com/superniqui10][img]https://storage.ko-fi.com/cdn/brandasset/kofibuttondark.png[/img][/url]
+
+Impassable Chest-deep Water by Vambypants
+Makes chest-deep water impassable, and reduces the walk speed of shallow water. Makes rivers strategically useful. Updated for 1.0 and 1.1
+
+Vanilla Races Expanded - Phytokin by Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van, Reann Shepard
+Vanilla Races Expanded is a brand new series of mods to enhance Biotech features, add to the storytelling and the world-building of RimWorld, and to introduce new, cool types ofxenohumans, complete with their own unique genes, behaviors, mechanics and items.
+This mod adds a new race called Phytokins, which are a unique and extremely rare xenotype that mixes the DNA of a plant with human DNA. Phytokins are capable of photosynthesis and reproduce via planting a saplingchild, and come in three varieties based on what DLCs you have enabled. With no other DLC, the only Phytokin variety present in the game will be the evil Poluxkin.
+Based on genetic data retrofitted from Gauranlen Inc.’s investment into dendrology following the Fall of Sorne, phytokins are plant-based humanoids with an emphasis on symmetry and symbiosis. Their ability to subsist only on sunlight and affinity with any and all plantlife make them especially suited to aiding newly established colonies or underperforming industrial farms.
+Based on research from the forest planet of Phytok that committed to extensive analysis on human-compatibility with psychic energy, phytokin xenogerms are typically exclusive to high-ranking, supporting roles in megacorporations and planetary governments. Their unique way of reproduction has resulted in many identical offspring, with each generation becoming successively more competent than their progenitor, further contributing to their extremely low numbers. Their affinity with plantlife, along with the side effect of extremely high and ever-increasing psychic sensitivity, mean that any phytokin xenohumans found on the Rim are always adapted to high-concept, dominant trees that are present on their residing planet.
+
+Vanilla Nutrient Paste Expanded by Oskar Potocki, Kikohi
+Vanilla Nutrient Paste Expanded is a small mod created to showcase what the new Pipe network code is capable of in Vanilla Expanded framework. It adds a rather simple chain, unlocked with Nutrient Paste research project, allowing the player to store nutrient paste in advance without the need for convoluted nutrient paste dispensers and hoppers. Players will now pipe nutrient paste directly from paste grinders into large storage vats. This can be connected to special output valves which serve prisoners and colonists with a not-so-tasty disgusting-looking stew.
+The introduction of nutrient paste dripper will allow you to automatically feed bed-bound colonists or prisoners. Truly the stuff of nightmares.
+Nutrient paste pipes can now be connected to any structure requiring nutrients, such as the Growth Vat, and will automatically supply it with required fuel.
+We are not removing the current nutrient paste dispenser or changing how it works - well, maybe a little change, but other than that this mod serves as new content, not changes to existing content.
+
+Vanilla Backstories Expanded by Oskar Potocki, Legodude17
+Vanilla Backstories Expanded was a mod suggested by my patrons right after we released Vanilla Backgrounds Expanded and everyone thought that was the mod adding backstories. It wasn’t. This one is.
+This mod features over 150 backstories, carefully selected from the submissions from our Patrons and testers, as well as quite a large number of backstories written by us, VE team members. I have ran a little experiment and asked various people from our community channels to write their own backstory that reflects what they do in real life, but placed in RimWorld universe. Some submissions have been absolutely stellar, and that inspired us to put them in the game.
+We have paid extreme attention to making sure that they all fit the game perfectly. They should be very well balanced as well - we made several balance passes and ran a VE-team vote on the most fitting backstories.
+If you find any typos or issues, please be sure to let us know, telling us which specific backstory you have found a problem with!
+
+Just Ignore Me Passing by Andreas Pardeike
+Excuse me. I need to pass here where you work. Please keep going.
+Powered by Harmony Patch Library
+Andreas Pardeike
+Email: andreas@pardeike.net
+Steam: pardeike
+Twitter: @pardeike
+
+Injured Carry by Haecriver
+This mod allows you to control your pawn to rescue any injured pawns, even ones who are not downed.
+Sometimes, because of his bad back, your 98 years old colonist will not be able to go to bed before he bleeds out.
+When this happens, you will thank me.
+
+Not My Fault by Vesper
+Picture this - You get a new notification, a trade a caravan! How exciting! Except... No, guys, please don't walk through the cave filled to the brim with angry genetically engineered insects... Aaaand your visitors are all dead. And now their faction hates you for some reason.
+"Not My Fault" is a simple mod. It removes the -5 penalty you get from visitors dying on your map tile due to events you had no control over.
+No more faction reputation loss because your visitors picked a fight with a wild manhunting grizzly bear. Or perhaps they lit themselves on fire because they somehow missed the fact that a dry thunderstorm turned your rice fields into a raging inferno. Or maybe one of their own has a mental break and decides to go on a grenade throwing spree.
+Either way, you wouldn't have been penalized if this happened on the tile directly adjacent to your map. Why should you be punished for it now?
+It should be noted that this mod does NOT remove penalties for intentionally harming visitors. That being said, this is still not a "balanced" mod in that there are definitely ways to exploit this system. Up to you how you would like to use it.
+Credit:
+Programmer: Vesper
+Commissioner: Foxy Carter
+Compatibility:
+As the mod replaces the -5 faction penalty in the vanilla source code with 0, there should be no issues with mod compatibility.
+If any bugs are found, please let me know in the comments!
+
+Portraits of the Rim by TwoPenny
+.
+
+VAE-Accessories patch by Shira
+A patch for VAE-Accessories so raiders and visitors will finally spawn with VAE-Accessories
+
+Vanilla Ideology Expanded - Dryads by Oskar Potocki, Sarg Bjornson, Taranchuk, Reann Shepard
+Vanilla Ideology Expanded - Dryads is a mod expanding on the selection of gauranlen dryads in the Ideology DLC. Whilst the idea behind them fulfilling the majority of the roles in your colony is neat, the current selection of dryads feels lackluster - they don’t particularly have any powerful abilities worth mentioning.
+This mod changes that - from new dryad types that fill roles not explored before, to upgrades to existing dryads, the whole gauranlen dryad system can finally become a focus point of the colony.
+Integration with the Vanilla Ideology Expanded - Anima Theme also means that these new dryads get a reskin that suits Anima style if you have this mod active.
+This mod is meant to enhance Mr Samuel’s new Youtube series with some more dryad variety.
+
+Vanilla Weapons Expanded - Quickdraw by Oskar Potocki
+Vanilla Weapons Expanded - Quickdraw is an addition to a popular Vanilla Expanded mod series, adding four new quickdraw weapons. These firearms allow you to quickly respond to sudden enemy encounters, as special plasteel alloys allow you to reduce the aiming time to zero. There are drawbacks however - whilst these weapons fire a little bit faster than their vanilla counterparts, the cooldown after firing the shots is slightly increased.
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+
+Vanilla Weapons Expanded - Non-Lethal by Oskar Potocki
+Vanilla Weapons Expanded - Non-Lethal has been a commonly requested weapon set. So many times prison breaks result in accidental deaths. So many times, an enemy raider is your colonist’s father and you accidentally put a sniper rifle round through his skull. So many times your berserk pawn starts to fight with your melee expert with archotech arms, resulting in, well, death.
+Thanks to this mod, you will now have numerous ways of dispatching crowds and taking down single targets - you can use tear gas to blind groups of opponents, tasers to stun single targets, and dart guns to bring down even the hardest foes in a matter of seconds.
+Vanilla Weapons Expanded is part of a series of mods expanding on everyday life on the Rimworld. When paired together with a brand new Vanilla Apparel Expanded and Vanilla Armours Expanded, you can bring something to your game that will keep you interested in it for days.
+
+VFE Vitals Control Centre Resize by SpaceMoth
+Tweaks the size of the Vanilla Furniture Expanded Medical Module's Vitals Control Centre, so it looks better on screen and takes up only 1 by 3 instead of 2 by 3.
+
+What's Missing? by Revolus
+Highlighted requirements and tooltips for recipe descriptions.
+When a recipe has many ingredients, it's quite annoing to lookup what's missing. This mod tells you everything you need to know the first glance. Or at least it tells you a lot.
+
+Where is my weapon? by 民火
+Human re-equip the weapon that equiped before downed when recovering from downed.
+This MOD is powered by Harmony Patch Library.
+気絶から回復した際、気絶前に持っていた武器を装備しなおそうとします。
+このMODはHarmony Patch Libraryを使用しています。
+[License]
+- CC BY-NC-SA
+- MIT License
+Copyright 2017 TammyBee
+Twitter:@tammybee_tmb
+
+While You Are Nearby by pureMJ
+Colonist will now be more likely to do jobs nearby instead of walking long distances.
+Have you been tired of seeing your colonist walking 100 tiles just to harvest that single corn before walking another 100 tiles back to sow the empty healroot fields,
+and then walk to the corn again because another corn plant just matured? Fear not as this mod comes into rescue.
+
+Van's Retexture : Mechanitor by SirVan
+Want more vanilla textures for the base game mechanitor gear ? Well you are at the right place!
+
+Alpha Memes by Sarg Bjornson, Helixien, Cassie, Luizi, Allie
+Adds new memes and structures to Rimworld.
+Features
+- Adds 9 new structures: Jewish origins, Kemetic origins, Steampunk revival, Jain origins, Sikh origins, Corsair, Neolithic, Scavenger and Atheism.
+- Adds 14 new memes: Vow of Nonviolence, Artist, Sadist, Youth, Madness, Biological defilers, Biological reconstructors, Psychic vampirism (needs Royalty), Gauranlen supremacy, Bulwark, Sharpshooter, Gladiator, Iconoclast and Monastic.
+- Greatly expands all vanilla Ideology styles (Techist, Morbid, etc) with more than 300 individual styled weapons, buildings, etc
+Credits
+Corsair ritual song by Justin Marshall Elias:
+https://www.justinmarshallelias.com/
+https://www.imdb.com/name/nm3365402/?ref=fnalnm1
+https://www.instagram.com/justinmarshallelias/?hl=en
+Neolithic ritual sound by franknflute:
+https://freesound.org/people/franeknflute/sounds/200419/
+Scavenger ritual sound by Nuklean:
+https://www.looperman.com/loops/detail/302417/juice-wrld-type-drums-trap-with-fire-808-free-184bpm-trap-drum-loop
+Issues
+No issues known at the moment
+Plans for the future
+Oh you can bet I will add new things!
+Changelog
+v2.0: Updated to RW 1.4 (14/10/22)
+v1.7: Added scavenger structure and style (28/07/22)
+v1.6: Added 9 new funeral types. New change style ability. New Animalist and Corsair weapons (08/07/22)
+v1.5: Added a LOT of styled weapons. Axes, hammers, breach axes, miniguns, charge lances (18/05/22)
+v1.4: Added Neolithic style (18/05/22)
+v1.3: Added Corsair style (11/05/22)
+v1.2: Added Steampunk revival structure, with a LOT of styled things. Added major religions' power armors (04/01/22)
+v1.1: Added a ton of base Ideology styles' weapons (16/12/21)
+v1.0: Release. (22/11/21)
+Full changelog on GitHub
+
+Vanilla Races Expanded - Sanguophage by Oskar Potocki, Sarg Bjornson, Erin
+Introducing Vanilla Races Expanded - Sanguophage, a thrilling mod that adds a captivating layer of depth to the world of Rimworld. This expansive mod brings the ancient and terrifying power of vampiric bloodlines to life, infusing your gameplay with unique genes, incredible abilities, and unforgettable xenotypes. The Sanguophage mod offers an immersive experience, where players must navigate complex management of their sanguophages' hemogen needs and the captivating dynamics of different blood types. Brace yourself for blood moon events, the challenge of the hemohunter mental state, and master new deathrest building enhancements.
+Summary of Features:
+- Three New Xenotypes: Experience the Strigoi, Ekkimian, and Bruxa subxenotypes, each with their own distinct abilities, appearances, and playstyles. Forge a new path on the Rimworld with these powerful vampiric entities.
+- Hemogen Management: Sanguophages require the lifeblood of their prey for sustenance. Balance their needs by acquiring blood packs, using prisoners, or employing diplomacy to obtain the precious hemogen they crave.
+- Blood Types and Affinities: Discover the effects of different blood types and how they impact sanguophage abilities, social interactions, and compatibility. Master this dynamic to create an unstoppable vampire colony.
+- Blood Moon Events: Prepare for the ominous Blood Moon, an event that strengthens sanguophages while presenting unique challenges and opportunities to expand your empire.
+- Hemohunter Mental State: Tread carefully as your sanguophages can enter a frenzied state of bloodlust, hunting down prey in order to sate their unquenchable thirst.
+- Deathrest Building Enhancements: Customize your sanguophages' lairs with new building options, providing comfort and safety for your vampires during their daily rest.
+Unleash the darkness within and conquer the Rimworld with the power of the Sanguophage in Vanilla Races Expanded - Sanguophage. Are you ready to embrace your inner vampire?
+
+Van's Retexture : Steel by SirVan
+Want steel, steel and only steel to be retextured ? Well there you go.
+
+Vanilla Animals Expanded — Waste Animals by Oskar Potocki, Sarg Bjornson, Sir Van
+Embrace the toxic side of nature with the "Vanilla Animals Expanded - Waste Animals" mod! This unique mod expands the range of creatures found in highly polluted biomes, diversifying the environmental challenges and adding an extra layer of depth to your gameplay experience.
+Venture into the contaminated world and encounter new waste animals specific to their biomes. Meet the resilient Wastefallos in the frozen tundras, confront the fearsome Pestigators lurking in the murkiest swamps, and tread cautiously among packs of ravenous Toxlions that spread the dreaded Toxflu with each bite.
+Unlike the base game's Biotech DLC, which features only Toxalopes and Toxrats in every biome, this mod tailors the waste animals to their respective habitats, ensuring diverse and dynamic ecosystems teeming with life – even in the most inhospitable environments.
+But beware the consequences of your own pollution! Generate too many Wastepacks and risk triggering a new event that attracts hordes of waste animals to your map, threatening the stability of your local ecosystem and putting your colony in peril. Manage your waste production and strike a delicate balance between progress and preservation in this unpredictable, toxic world.
+Key Features:
+- A diverse range of biome-specific waste animals for a more immersive and challenging experience.
+- The introduction of many new waste animals, including Toxbears, Wastefallos, and even Megatardi – each with their own unique abilities and threats.
+- A new event that dynamically reacts to the player's pollution levels, attracting waste animals and endangering the local ecosystem.
+- Complements the base game and Biotech DLC, enhancing the overall gameplay experience.
+
+[K4G] Empires of Old - Core by Krazy4Games
+Projectile Bullet Retexture by NomadRw
+Projectile Bullet Retexture
+
+Vanilla Races Expanded - Android by Oskar Potocki, Taranchuk, ISOREX, Sarg Bjornson
+Vanilla Races Expanded is a brand new series of mods to enhance Biotech features, add to the storytelling and the world-building of RimWorld, and to introduce new, cool types ofxenohumans, complete with their own unique genes, behaviors, mechanics and items.
+Introducing Vanilla Races Expanded - Androids, a unique addition to your RimWorld experience that introduces a new dimension of gameplay: Android Colonists. Built with the Biotech DLC, this mod reinvents the concept of colonists, bringing fully customizable Androids to your colonies, complete with their own set of genes - the immutable Hardware and programmable Subroutines.
+Hardware genes are the framework that defines an Android's behavior and aesthetics. These include Synthetic Body, Neutroamine Circulation, Joy Disabled, Beauty Disabled, Comfort Disabled, and No Mental Breaks, among others. These genes, which cannot be removed, dictate the Android's fundamental needs, like their neutroamine blood.
+Subroutines, on the other hand, dictate an Android's capabilities. These can be programmed during the creation of an Android, or later using the Android Behaviorist Station. Subroutines cover a wide range of skills, RAM quality, and behaviors related to various environmental factors like solar flares, EMP, and rain. These, however, cost Power Efficiency points, akin to an organic metabolism. Striking a balance between positive and negative subroutines is crucial to maintain an optimal power level and prevent reactor drain.
+A new world opens for these Androids. Freed from human needs like food, sleep, or recreation, they're designed for relentless work and pre-programmed services. Damages? They can be repaired using Neutrocaskets. Running out of blood? They use neutroamine. Need a new part? Just craft it on a new workbench and replace it.
+This mod also introduces a new set of buildable structures, including a neutroamine network that pumps neutroamine from high-tech tanks to Neutrocaskets. The Android Creation Station lets you create new Androids, while the Subcore Polyanalyzer is a new type of brain scanner that creates persona subcores, essential for new Androids. Android stands can be placed around the base for daily reformatting.
+An exciting twist awaits with the Android Awakening. Under extreme mood, Androids can develop humanity, breaking away from their standard rule sets and behaving more like human pawns. They can learn new skills, gain new traits, and even require comfort and risk mental breaks.
+Awakened Androids are integrated into in-game factions, and the mod comes with 30 new backstories for these evolved beings. Additionally, the mod includes Ideology integration, featuring a new precept, Androids, which dictates how synthetic humans are viewed by other colonists.
+Lastly, a new starting scenario lets you establish an Android Utopia, welcoming chased Android refugees from all across RimWorld to join your mission to build a haven of equality and peace.
+Vanilla Races Expanded - Androids is more than a mod; it's a complete reinvention of the RimWorld experience. Discover the potential of Androids and redefine what it means to be a colonist. Are you ready to step into the future?
+
+Melee Animation by Epicguru
+Adds detailed melee combat animations, including duels, executions, and unique skills. Also (optionally) adds lassos to pull enemies into melee range.
+* Equip colonists with melee weapons (or melee sidearms) and they will be animated!
+* Draft a melee colonist and you can right-click on targets to execute or lasso them.
+* Place down a Duel Spot (under the Misc tab) to have your colonists engage in friendly duels.
+* Craft Lassos at a tailor bench and equip them to pawns for an edge against gunfighters.
+Load as low down as possible.
+
+RocketMan - Performance Mod by Krkr
+RocketMan:
+NOTE: HugsLib is no longer required for RimWorld 1.4, 1.3.
+RocketMan is mod that is designed to improve RimWorld Performance.
+Important note: RocketMan should be the last mod in your mod list.
+1- RocketMan doesn't support RimThreaded and never will.
+2- Bug reports with no logs will not get a response.
+Github Link: https://github.com/kbatbouta/RocketMan
+RocketMan is OpenSource and for anyone to use, modify, update.
+Credits:
+The main developer: Karim (aka Krkr)
+The Thumbnail: Trisscar.
+The original concept of Stat caching: Notooshabby.
+DISCLAIMER: I’m not responsible in any way for damage done by RocketMan to your saves. RocketMan has been tested for over 9 months. Any damage done to your save is probably your own fault since RocketMan has been tested for so long.
+Special Thanks goes to:
+Madman666 the entire Dubwise server for the help and testing they provided!
+Trisscar for their awesome thumbnail.
+Dubwise for hosting me on their discord server.
+Wiri for his awesome contribution.
+Bad Vlad (ModderK) for their awesome feedback.
+Brrainz for Harmony and ZombieLand which inspired my time dilation solution.
+You can always ask questions on the Dubwise discord server: https://discord.gg/mKVDMqq4
